@@ -1,0 +1,667 @@
+﻿School ID,EducationUnits,Total,White,AfricanAmerican,API,NativeAmericanAlaskan,Hispanic,MR,Asian,HPR,NA
+400008,Acad of Communication & Tech Charter High School,319,3,315,0,0,1,Nan,Nan,Nan,Nan
+400009,Academy for Global Citizenship Elementary School,89,7,1,1,0,80,Nan,Nan,Nan,Nan
+400010,ACE Technical Charter High School,476,32,305,3,1,135,Nan,Nan,Nan,Nan
+400011,Alain Locke Elementary Charter Academy,507,0,501,0,0,6,Nan,Nan,Nan,Nan
+400012,Amandla Charter High School,103,1,102,0,0,0,Nan,Nan,Nan,Nan
+400013,ASPIRA Charter - Early College HS,374,15,35,5,0,319,Nan,Nan,Nan,Nan
+400015,ASPIRA Charter - Ramirez HS,402,11,34,3,0,354,Nan,Nan,Nan,Nan
+400017,ASPIRA Charter - Haugan MS,500,39,40,33,1,387,Nan,Nan,Nan,Nan
+400018,Austin Business and Entrepreneurship Academy HS,392,2,390,0,0,0,Nan,Nan,Nan,Nan
+400019,Bronzeville Lighthouse Charter Elementary School,404,1,398,1,1,3,Nan,Nan,Nan,Nan
+400020,Catalyst Charter Elementary School,331,1,329,0,0,1,Nan,Nan,Nan,Nan
+400021,Catalyst Elementary School,274,0,272,0,0,2,Nan,Nan,Nan,Nan
+400023,Chicago Intl Charter - Avalon South Shore ES,406,0,406,0,0,0,Nan,Nan,Nan,Nan
+400024,Chicago Intl Charter - Basil ES,726,0,691,1,0,34,Nan,Nan,Nan,Nan
+400025,Chicago Intl Charter - Bucktown ES,624,40,151,5,0,428,Nan,Nan,Nan,Nan
+400026,Chicago Intl Charter - Friesse ES,568,2,564,0,0,2,Nan,Nan,Nan,Nan
+400027,Chicago Intl Charter - Irving Park ES,349,40,84,10,5,210,Nan,Nan,Nan,Nan
+400028,Chicago Intl Charter - Prairie ES,416,0,241,0,0,175,Nan,Nan,Nan,Nan
+400029,Chicago Intl Charter - Washington Park ES,449,0,448,0,0,1,Nan,Nan,Nan,Nan
+400030,Chicago Intl Charter - West Belden ES,500,6,53,0,0,441,Nan,Nan,Nan,Nan
+400031,Chicago Intl Charter - Wrightwood ES,699,2,691,1,1,4,Nan,Nan,Nan,Nan
+400032,Chicago Intl Charter - Ellison HS,447,2,438,1,0,6,Nan,Nan,Nan,Nan
+400033,Chicago Intl Charter - Longwood HS,"1,480",2,"1,461",1,0,16,Nan,Nan,Nan,Nan
+400034,Chicago Intl Charter - Northtown HS,808,232,96,75,5,400,Nan,Nan,Nan,Nan
+400035,Chicago Math & Science Charter High School,483,39,122,36,0,286,Nan,Nan,Nan,Nan
+400036,Chicago Virtual Charter High School,600,111,396,38,2,53,Nan,Nan,Nan,Nan
+400037,Choir Academy Charter ES of Chicago,141,1,135,0,0,5,Nan,Nan,Nan,Nan
+400038,Community Services West High School,105,0,100,0,0,5,Nan,Nan,Nan,Nan
+400039,Erie Charter Elementary School,207,8,35,1,0,163,Nan,Nan,Nan,Nan
+400040,Frazier Preparatory Academy Elementary School,437,0,432,0,0,5,Nan,Nan,Nan,Nan
+400041,Galapagos Charter Elementary School,314,0,314,0,0,0,Nan,Nan,Nan,Nan
+400042,Henry Ford Academy: Power House Charter HS,111,0,110,0,0,1,Nan,Nan,Nan,Nan
+400044,KIPP Ascend Charter Elementary School,325,0,316,0,0,9,Nan,Nan,Nan,Nan
+400045,Kwame Nkrumah Elementary Academy,64,0,64,0,0,0,Nan,Nan,Nan,Nan
+400046,LEARN Charter-North Lawndale I ES,433,3,429,0,0,1,Nan,Nan,Nan,Nan
+400048,LEARN Charter-West Garfield ES,146,0,145,0,0,1,Nan,Nan,Nan,Nan
+400049,Legacy Charter Elementary School,303,0,298,0,1,4,Nan,Nan,Nan,Nan
+400050,Namaste Charter Elementary School,313,31,30,5,5,242,Nan,Nan,Nan,Nan
+400051,Noble Street Charter - Noble HS,494,17,55,2,0,420,Nan,Nan,Nan,Nan
+400052,Noble Street Charter - Comer HS,153,1,148,0,0,4,Nan,Nan,Nan,Nan
+400053,Noble Street Charter - Golder HS,284,15,45,4,0,220,Nan,Nan,Nan,Nan
+400054,Noble Street Charter - Pritzker HS,428,4,39,7,0,378,Nan,Nan,Nan,Nan
+400055,Noble Street Charter - Rauner HS,409,22,72,3,0,312,Nan,Nan,Nan,Nan
+400056,Noble Street Charter - Rowe Clark HS,279,7,172,0,0,100,Nan,Nan,Nan,Nan
+400057,Noble Street Charter - UIC HS,182,14,47,2,0,119,Nan,Nan,Nan,Nan
+400058,North Lawndale Charter HS - Howland,405,0,396,0,0,9,Nan,Nan,Nan,Nan
+400059,North Lawndale Charter HS - Collins,248,0,246,0,0,2,Nan,Nan,Nan,Nan
+400060,Passages Charter Elementary School,209,25,105,44,2,33,Nan,Nan,Nan,Nan
+400061,Perspectives Charter-Calumet HS,364,0,362,0,1,1,Nan,Nan,Nan,Nan
+400062,Perspectives Charter-Calumet Technical HS,327,1,325,0,0,1,Nan,Nan,Nan,Nan
+400064,Perspectives Charter-Loop HS,346,13,215,3,1,114,Nan,Nan,Nan,Nan
+400066,Perspectives Charter-Math and Science HS,261,5,235,5,1,15,Nan,Nan,Nan,Nan
+400067,Perspectives Charter-Calumet MS,383,0,383,0,0,0,Nan,Nan,Nan,Nan
+400068,Plato Learning Academy Elementary School,291,1,289,0,0,1,Nan,Nan,Nan,Nan
+400069,Polaris Charter Elementary Academy,182,1,164,0,0,17,Nan,Nan,Nan,Nan
+400070,Prologue Early College High School,201,5,152,3,3,38,Nan,Nan,Nan,Nan
+400071,Providence Englewood Elementary School,399,1,394,0,0,4,Nan,Nan,Nan,Nan
+400072,Betty Shabazz Charter - Shabazz ES,297,0,296,0,0,1,Nan,Nan,Nan,Nan
+400073,Betty Shabazz Charter - DuSable HS,383,1,381,0,0,1,Nan,Nan,Nan,Nan
+400074,Betty Shabazz Charter - Sizemore ES,202,0,202,0,0,0,Nan,Nan,Nan,Nan
+400075,Univ of Chicago Charter - Donoghue ES,334,1,331,0,0,2,Nan,Nan,Nan,Nan
+400076,Univ of Chicago Charter-North Kenwood Oakland ES,310,3,305,1,0,1,Nan,Nan,Nan,Nan
+400077,Univ of Chicago Charter - Woodlawn HS,440,2,432,1,0,5,Nan,Nan,Nan,Nan
+400078,Univ of Chicago Charter - Woodson South MS,193,0,192,0,0,1,Nan,Nan,Nan,Nan
+400079,UNO Charter-Archer Heights North ES,559,8,4,4,0,543,Nan,Nan,Nan,Nan
+400080,UNO Charter-Archer Heights South ES,565,14,10,0,0,541,Nan,Nan,Nan,Nan
+400081,UNO Charter ES-de Las Casas,264,1,3,0,0,260,Nan,Nan,Nan,Nan
+400082,UNO Charter-Fuentes ES,539,17,9,6,1,506,Nan,Nan,Nan,Nan
+400083,UNO Charter-Paz ES,472,0,208,1,0,263,Nan,Nan,Nan,Nan
+400084,UNO Charter-Tamayo ES,276,3,2,0,0,271,Nan,Nan,Nan,Nan
+400085,UNO Charter-Archer Heights HS,149,1,1,0,0,147,Nan,Nan,Nan,Nan
+400086,Urban Prep Academy for Young Men Charter HS,445,2,442,0,0,1,Nan,Nan,Nan,Nan
+400087,Young Womens Leadership Charter High School,356,25,273,2,0,56,Nan,Nan,Nan,Nan
+400089,UNO Charter-Marquez ES,540,8,8,0,1,523,Nan,Nan,Nan,Nan
+609674,Chicago Vocational Career Academy High School,"1,666",4,"1,641",0,2,19,Nan,Nan,Nan,Nan
+609675,Chicago Vocational Achievement Academy HS,232,1,226,0,0,5,Nan,Nan,Nan,Nan
+609676,Paul Laurence Dunbar Career Academy High School,"1,545",3,"1,529",1,1,11,Nan,Nan,Nan,Nan
+609678,William Jones College Preparatory High School,739,217,183,86,5,248,Nan,Nan,Nan,Nan
+609679,Charles Allen Prosser Career Academy High School,"1,434",149,449,8,2,826,Nan,Nan,Nan,Nan
+609680,Walter Payton College Preparatory High School,875,315,223,148,3,186,Nan,Nan,Nan,Nan
+609682,Ellen H Richards Career Academy High School,595,9,150,0,0,436,Nan,Nan,Nan,Nan
+609683,Alternative Learning Community High School,453,10,378,0,1,64,Nan,Nan,Nan,Nan
+609686,Youth Connections Charter School,"3,071",90,"2,169",19,3,790,Nan,Nan,Nan,Nan
+609691,North-Grand High School,929,8,62,1,0,858,Nan,Nan,Nan,Nan
+609692,Neal F Simeon Career Academy High School,"1,612",2,"1,601",0,0,9,Nan,Nan,Nan,Nan
+609694,John Hancock College Preparatory High School,933,57,29,5,4,838,Nan,Nan,Nan,Nan
+609695,Roald Amundsen High School,"1,543",196,247,171,2,927,Nan,Nan,Nan,Nan
+609698,William J Bogan High School,"1,972",65,"1,162",5,1,739,Nan,Nan,Nan,Nan
+609702,Richard T Crane Technical Preparatory HS,666,0,659,1,0,6,Nan,Nan,Nan,Nan
+609704,David G Farragut Career Academy High School,"2,079",14,420,0,1,"1,644",Nan,Nan,Nan,Nan
+609705,Christian Fenger Academy High School,"1,196",2,"1,189",1,2,2,Nan,Nan,Nan,Nan
+609706,Fenger Achievement Academy High School,99,0,97,0,0,2,Nan,Nan,Nan,Nan
+609707,Paul Robeson High School,"1,332",1,"1,329",0,1,1,Nan,Nan,Nan,Nan
+609708,Edwin G Foreman High School,"1,961",119,333,11,0,"1,498",Nan,Nan,Nan,Nan
+609709,Gage Park High School,"1,672",15,791,0,1,865,Nan,Nan,Nan,Nan
+609710,John M Harlan Community Academy High School,"1,308",1,"1,302",0,1,4,Nan,Nan,Nan,Nan
+609711,William Rainey Harper High School,911,1,908,0,1,1,Nan,Nan,Nan,Nan
+609712,Emil G Hirsch Metropolitan High School,832,2,820,0,1,9,Nan,Nan,Nan,Nan
+609713,Hyde Park Academy High School,"1,969",0,"1,962",0,1,6,Nan,Nan,Nan,Nan
+609715,Thomas Kelly High School,"3,155",122,83,289,3,"2,658",Nan,Nan,Nan,Nan
+609716,Kelvyn Park High School,"1,480",28,114,4,2,"1,332",Nan,Nan,Nan,Nan
+609718,John F Kennedy High School,"1,656",571,195,13,5,872,Nan,Nan,Nan,Nan
+609719,Lake View High School,"1,610",249,240,139,13,969,Nan,Nan,Nan,Nan
+609720,Albert G Lane Technical High School,"4,194","1,270",533,573,24,"1,794",Nan,Nan,Nan,Nan
+609722,Manley Career Academy High School,"1,058",2,"1,053",0,0,3,Nan,Nan,Nan,Nan
+609723,John Marshall Metropolitan High School,"1,205",1,"1,197",0,0,7,Nan,Nan,Nan,Nan
+609724,Stephen T Mather High School,"1,630",380,243,392,6,609,Nan,Nan,Nan,Nan
+609725,Morgan Park High School,"1,744",34,"1,671",1,1,37,Nan,Nan,Nan,Nan
+609726,Gwendolyn Brooks College Preparatory Academy HS,744,12,629,3,2,98,Nan,Nan,Nan,Nan
+609727,Wendell Phillips Academy High School,784,1,771,8,1,3,Nan,Nan,Nan,Nan
+609728,Theodore Roosevelt High School,"1,559",124,169,133,3,"1,130",Nan,Nan,Nan,Nan
+609729,Carl Schurz High School,"2,156",181,149,50,12,"1,764",Nan,Nan,Nan,Nan
+609730,Nicholas Senn High School,"1,155",75,441,152,5,482,Nan,Nan,Nan,Nan
+609732,Charles P Steinmetz Academic Centre High School,"1,910",220,399,29,3,"1,259",Nan,Nan,Nan,Nan
+609733,Roger C Sullivan High School,774,50,442,48,0,234,Nan,Nan,Nan,Nan
+609734,William Howard Taft High School,"2,605","1,428",94,215,12,856,Nan,Nan,Nan,Nan
+609735,Edward Tilden Career Community Academy HS,899,39,625,24,1,210,Nan,Nan,Nan,Nan
+609736,Dyett High School,569,0,568,0,0,1,Nan,Nan,Nan,Nan
+609737,Frederick W von Steuben Metropolitan Science HS,"1,612",402,461,231,2,516,Nan,Nan,Nan,Nan
+609738,Lincoln Park High School,"2,175",664,770,254,6,481,Nan,Nan,Nan,Nan
+609739,George Washington High School,"1,460",98,303,1,3,"1,055",Nan,Nan,Nan,Nan
+609740,Wells Community Academy High School,681,19,350,1,1,310,Nan,Nan,Nan,Nan
+609741,Gurdon S Hubbard High School,"1,743",63,188,32,2,"1,458",Nan,Nan,Nan,Nan
+609743,Phillips Achievement Academy High School,106,4,67,0,0,35,Nan,Nan,Nan,Nan
+609744,Northside Learning Center High School,307,60,94,18,1,134,Nan,Nan,Nan,Nan
+609745,Southside Occupational Academy High School,172,11,138,0,0,23,Nan,Nan,Nan,Nan
+609746,Kenwood Academy High School,"1,676",45,"1,517",51,6,57,Nan,Nan,Nan,Nan
+609748,Consuella B York Alternative High School,309,11,241,0,0,57,Nan,Nan,Nan,Nan
+609749,Northside College Preparatory High School,"1,073",404,63,337,11,258,Nan,Nan,Nan,Nan
+609750,Simpson Academy High School for Young Women,167,2,140,0,0,25,Nan,Nan,Nan,Nan
+609751,Dr  Martin Luther King  Jr  College Prep HS,900,11,843,19,0,27,Nan,Nan,Nan,Nan
+609753,Chicago High School for Agricultural Sciences,589,188,331,2,1,67,Nan,Nan,Nan,Nan
+609754,Chicago Military Academy High School,514,14,357,3,2,138,Nan,Nan,Nan,Nan
+609755,Whitney M Young Magnet High School,"2,259",686,698,403,4,468,Nan,Nan,Nan,Nan
+609756,Marie Sklodowska Curie Metropolitan High School,"3,473",189,498,182,2,"2,602",Nan,Nan,Nan,Nan
+609759,Roberto Clemente Community Academy High School,"1,858",44,623,2,2,"1,187",Nan,Nan,Nan,Nan
+609760,George Washington Carver Military Academy HS,504,5,250,1,0,248,Nan,Nan,Nan,Nan
+609761,George H Corliss High School,"1,032",1,"1,016",1,0,14,Nan,Nan,Nan,Nan
+609762,Percy L Julian High School,"1,748",5,"1,735",2,0,6,Nan,Nan,Nan,Nan
+609763,George W Collins High School,151,0,150,0,0,1,Nan,Nan,Nan,Nan
+609764,Benito Juarez Community Academy High School,"1,560",22,55,15,3,"1,465",Nan,Nan,Nan,Nan
+609765,Bartholome De Las Casas Occupational High School,82,0,78,0,0,4,Nan,Nan,Nan,Nan
+609766,Jacqueline B Vaughn Occupational High School,215,28,86,1,0,100,Nan,Nan,Nan,Nan
+609768,Hope College Preparatory High School,948,1,940,0,0,7,Nan,Nan,Nan,Nan
+609769,Ray Graham Training Center High School,185,9,102,6,0,68,Nan,Nan,Nan,Nan
+609771,Robert Sengstacke Abbott Elementary School,115,2,102,4,0,7,Nan,Nan,Nan,Nan
+609772,Jane Addams Elementary School,880,37,16,0,0,827,Nan,Nan,Nan,Nan
+609773,Louis A Agassiz Elementary School,349,102,121,8,3,115,Nan,Nan,Nan,Nan
+609774,Louisa May Alcott Elementary School,488,265,93,30,2,98,Nan,Nan,Nan,Nan
+609775,John P Altgeld Elementary School,669,3,661,1,0,4,Nan,Nan,Nan,Nan
+609776,Hans Christian Andersen Community Academy ES,269,2,35,4,0,228,Nan,Nan,Nan,Nan
+609777,Phillip D Armour Elementary School,354,39,9,7,2,297,Nan,Nan,Nan,Nan
+609779,George Armstrong International Studies ES,"1,436",127,360,259,5,685,Nan,Nan,Nan,Nan
+609780,Ames Middle School,740,10,66,5,1,658,Nan,Nan,Nan,Nan
+609781,Crispus Attucks Elementary School,325,2,311,0,0,12,Nan,Nan,Nan,Nan
+609782,John J Audubon Elementary School,482,223,36,26,7,190,Nan,Nan,Nan,Nan
+609783,Nancy B Jefferson Alternative High School,370,11,305,0,1,53,Nan,Nan,Nan,Nan
+609786,Avalon Park Elementary School,603,1,601,0,0,1,Nan,Nan,Nan,Nan
+609787,Avondale Elementary School,704,11,37,4,1,651,Nan,Nan,Nan,Nan
+609788,Alice L Barnard Computer Math & Science Ctr ES,279,2,274,0,0,3,Nan,Nan,Nan,Nan
+609789,John Barry Elementary School,907,26,22,7,0,852,Nan,Nan,Nan,Nan
+609790,Clara Barton Elementary School,663,1,655,0,0,7,Nan,Nan,Nan,Nan
+609791,Perkins Bass Elementary School,508,0,507,0,0,1,Nan,Nan,Nan,Nan
+609792,Newton Bateman Elementary School,"1,003",96,43,77,1,786,Nan,Nan,Nan,Nan
+609793,Nicholson Math & Science Elementary School,405,2,402,0,0,1,Nan,Nan,Nan,Nan
+609794,Thomas A Edison Regional Gifted Center ES,264,107,19,60,8,70,Nan,Nan,Nan,Nan
+609795,George Rogers Clark Elementary School,313,7,200,3,0,103,Nan,Nan,Nan,Nan
+609796,Jean Baptiste Beaubien Elementary School,"1,127",436,61,183,12,435,Nan,Nan,Nan,Nan
+609797,Jacob Beidler Elementary School,456,3,451,1,0,1,Nan,Nan,Nan,Nan
+609798,Hiram H Belding Elementary School,543,196,43,42,2,260,Nan,Nan,Nan,Nan
+609799,Alexander Graham Bell Elementary School,948,514,70,113,7,244,Nan,Nan,Nan,Nan
+609800,Frank I Bennett Elementary School,593,1,589,1,0,2,Nan,Nan,Nan,Nan
+609803,James G Blaine Elementary School,811,364,55,74,18,300,Nan,Nan,Nan,Nan
+609804,Daniel Boone Elementary School,"1,036",241,135,243,5,412,Nan,Nan,Nan,Nan
+609805,Scott Joplin Elementary School,604,1,600,1,0,2,Nan,Nan,Nan,Nan
+609806,Myra Bradwell Communications Arts & Sciences ES,770,0,769,0,0,1,Nan,Nan,Nan,Nan
+609807,Lionel Hampton Fine & Performing Arts ES,701,9,406,0,0,286,Nan,Nan,Nan,Nan
+609808,Alex Haley Elementary Academy,600,0,598,0,0,2,Nan,Nan,Nan,Nan
+609809,Lorenz Brentano Math & Science Academy ES,531,32,26,3,3,467,Nan,Nan,Nan,Nan
+609810,Norman A Bridge Elementary School,752,453,15,21,6,257,Nan,Nan,Nan,Nan
+609811,Orville T Bright Elementary School,314,2,172,1,0,139,Nan,Nan,Nan,Nan
+609812,William H Brown Elementary School,251,3,237,1,0,10,Nan,Nan,Nan,Nan
+609813,Charles S Brownell Elementary School,298,0,298,0,0,0,Nan,Nan,Nan,Nan
+609815,Edward A Bouchet Math & Science Academy ES,897,0,891,3,1,2,Nan,Nan,Nan,Nan
+609817,Lyman A Budlong Elementary School,856,265,45,182,2,362,Nan,Nan,Nan,Nan
+609818,Luther Burbank Elementary School,"1,300",19,132,14,0,"1,135",Nan,Nan,Nan,Nan
+609819,Edmond Burke Elementary School,241,0,241,0,0,0,Nan,Nan,Nan,Nan
+609820,Augustus H Burley Elementary School,519,239,43,34,3,200,Nan,Nan,Nan,Nan
+609821,Burnham Elementary Inclusive Academy,274,0,273,0,0,1,Nan,Nan,Nan,Nan
+609826,Rosario Castellanos Elementary School,554,1,10,1,0,542,Nan,Nan,Nan,Nan
+609827,Burnside Elementary Scholastic Academy,765,0,762,0,0,3,Nan,Nan,Nan,Nan
+609828,Jonathan Burr Elementary School,334,61,63,6,3,201,Nan,Nan,Nan,Nan
+609829,John C Burroughs Elementary School,537,28,10,6,0,493,Nan,Nan,Nan,Nan
+609830,Milton Brunson Math & Science Specialty ES,806,3,777,0,0,26,Nan,Nan,Nan,Nan
+609832,Michael M Byrne Elementary School,694,333,12,2,2,345,Nan,Nan,Nan,Nan
+609833,Charles P Caldwell Academy of Math & Science ES,390,0,385,0,0,5,Nan,Nan,Nan,Nan
+609834,Little Village Elementary School,805,1,1,0,0,803,Nan,Nan,Nan,Nan
+609835,Daniel R Cameron Elementary School,984,4,437,0,0,543,Nan,Nan,Nan,Nan
+609836,Arthur E Canty Elementary School,703,455,13,33,1,201,Nan,Nan,Nan,Nan
+609837,Andrew Carnegie Elementary School,660,1,653,1,1,4,Nan,Nan,Nan,Nan
+609838,Philo Carpenter Elementary School,318,9,126,3,7,173,Nan,Nan,Nan,Nan
+609839,Carroll-Rosenwald Specialty Elementary School,678,0,658,0,1,19,Nan,Nan,Nan,Nan
+609842,Rachel Carson Elementary School,"1,305",8,73,0,0,"1,224",Nan,Nan,Nan,Nan
+609844,William W Carter Elementary School,441,0,441,0,0,0,Nan,Nan,Nan,Nan
+609845,George Washington Carver Primary School,483,0,479,0,0,4,Nan,Nan,Nan,Nan
+609848,Ira F Aldridge Elementary School,270,0,268,0,1,1,Nan,Nan,Nan,Nan
+609849,George F Cassell Elementary School,320,229,67,4,3,17,Nan,Nan,Nan,Nan
+609850,Horace Greeley Elementary School,530,62,84,6,0,378,Nan,Nan,Nan,Nan
+609851,Thomas Chalmers Specialty Elementary School,259,2,256,0,0,1,Nan,Nan,Nan,Nan
+609852,Eliza Chappell Elementary School,423,78,31,46,1,267,Nan,Nan,Nan,Nan
+609853,Salmon P Chase Elementary School,528,22,22,5,1,478,Nan,Nan,Nan,Nan
+609854,Frederic Chopin Elementary School,313,15,35,3,0,260,Nan,Nan,Nan,Nan
+609855,Walter S Christopher Elementary School,264,20,74,2,0,168,Nan,Nan,Nan,Nan
+609856,Henry Clay Elementary School,687,146,76,4,3,458,Nan,Nan,Nan,Nan
+609857,Grover Cleveland Elementary School,656,50,26,55,0,525,Nan,Nan,Nan,Nan
+609859,DeWitt Clinton Elementary School,"1,243",200,155,465,5,418,Nan,Nan,Nan,Nan
+609861,Henry R Clissold Elementary School,602,171,380,8,2,41,Nan,Nan,Nan,Nan
+609862,Edward Coles Elementary Language Academy,625,1,620,0,1,3,Nan,Nan,Nan,Nan
+609863,Christopher Columbus Elementary School,326,154,24,5,0,143,Nan,Nan,Nan,Nan
+609864,John W Cook Elementary School,673,1,666,0,0,6,Nan,Nan,Nan,Nan
+609865,Jordan Elementary Community School,701,8,287,3,1,402,Nan,Nan,Nan,Nan
+609866,John C Coonley Elementary School,442,214,15,38,1,174,Nan,Nan,Nan,Nan
+609867,Peter Cooper Elementary Dual Language Academy,734,7,8,3,0,716,Nan,Nan,Nan,Nan
+609869,Nicholas Copernicus Elementary School,346,0,344,2,0,0,Nan,Nan,Nan,Nan
+609870,Daniel J Corkery Elementary School,660,5,137,0,0,518,Nan,Nan,Nan,Nan
+609871,Barbara Vick Early Childhood & Family Center,240,166,53,1,0,20,Nan,Nan,Nan,Nan
+609872,Manuel Perez Elementary School,502,0,6,0,0,496,Nan,Nan,Nan,Nan
+609873,Crown Community Academy of Fine Arts Center ES,352,1,333,0,0,18,Nan,Nan,Nan,Nan
+609874,Everett McKinley Dirksen Elementary School,692,521,30,55,0,86,Nan,Nan,Nan,Nan
+609875,Charles R Darwin Elementary School,682,28,68,5,0,581,Nan,Nan,Nan,Nan
+609876,Nathan S Davis Elementary School,"1,546",24,15,4,2,"1,501",Nan,Nan,Nan,Nan
+609879,Charles Gates Dawes Elementary School,"1,164",26,311,3,0,824,Nan,Nan,Nan,Nan
+609880,Stephen Decatur Classical Elementary School,274,116,46,72,0,40,Nan,Nan,Nan,Nan
+609881,Edward C Delano Elementary School,498,2,495,0,1,0,Nan,Nan,Nan,Nan
+609883,Charles S Deneen Elementary School,511,2,508,0,0,1,Nan,Nan,Nan,Nan
+609884,William E Dever Elementary School,780,480,19,21,5,255,Nan,Nan,Nan,Nan
+609885,Dewey Elementary Academy of Fine Arts,431,0,425,0,0,6,Nan,Nan,Nan,Nan
+609887,Arthur Dixon Elementary School,654,1,650,0,1,2,Nan,Nan,Nan,Nan
+609888,Mary Mapes Dodge Elementary Renaissance Academy,432,0,431,0,0,1,Nan,Nan,Nan,Nan
+609891,James R Doolittle Jr Elementary School,431,0,427,3,0,1,Nan,Nan,Nan,Nan
+609893,John C Dore Elementary School,628,300,35,7,2,284,Nan,Nan,Nan,Nan
+609894,John B Drake Elementary School,284,2,269,6,0,7,Nan,Nan,Nan,Nan
+609895,Turner-Drew Elementary Language Academy,387,2,382,1,0,2,Nan,Nan,Nan,Nan
+609896,Thomas Drummond Elementary School,276,100,21,9,0,146,Nan,Nan,Nan,Nan
+609897,Charles W Earle Elementary School,394,0,394,0,0,0,Nan,Nan,Nan,Nan
+609898,John F Eberhart Elementary School,"1,824",45,113,2,0,"1,664",Nan,Nan,Nan,Nan
+609899,Christian Ebinger Elementary School,551,421,7,22,7,94,Nan,Nan,Nan,Nan
+609900,George W Curtis Elementary School,470,1,459,1,0,9,Nan,Nan,Nan,Nan
+609901,Edgebrook Elementary School,424,285,11,48,3,77,Nan,Nan,Nan,Nan
+609902,Ralph H Metcalfe Elementary Community Academy,647,3,643,0,0,1,Nan,Nan,Nan,Nan
+609903,Richard Edwards Elementary School,"1,248",85,10,8,0,"1,145",Nan,Nan,Nan,Nan
+609904,Edward K Ellington Elementary School,470,0,464,0,0,6,Nan,Nan,Nan,Nan
+609906,Robert Emmet Elementary School,538,0,537,1,0,0,Nan,Nan,Nan,Nan
+609907,Leif Ericson Elementary Scholastic Academy,585,0,581,0,0,4,Nan,Nan,Nan,Nan
+609908,Esmond Elementary School,430,2,422,0,1,5,Nan,Nan,Nan,Nan
+609909,Edward Everett Elementary School,363,20,3,11,0,329,Nan,Nan,Nan,Nan
+609910,Laughlin Falconer Elementary School,"1,560",93,38,18,0,"1,411",Nan,Nan,Nan,Nan
+609912,James B Farnsworth Elementary School,612,285,24,63,4,236,Nan,Nan,Nan,Nan
+609913,Elaine O Goodlow Elementary Magnet School,533,3,526,1,0,3,Nan,Nan,Nan,Nan
+609915,Foundations Elementary School,81,0,81,0,0,0,Nan,Nan,Nan,Nan
+609916,Enrico Fermi Elementary School,239,2,236,0,0,1,Nan,Nan,Nan,Nan
+609917,Fernwood Elementary School,440,1,435,2,1,1,Nan,Nan,Nan,Nan
+609918,Eugene Field Elementary School,335,18,132,23,0,162,Nan,Nan,Nan,Nan
+609919,John Fiske Elementary School,322,1,320,0,0,1,Nan,Nan,Nan,Nan
+609920,Gerald Delgado Kanoon Elementary Magnet School,701,1,5,0,0,695,Nan,Nan,Nan,Nan
+609921,Telpochcalli Elementary School,252,6,3,0,2,241,Nan,Nan,Nan,Nan
+609922,Belmont-Cragin Elementary School,626,34,12,9,0,571,Nan,Nan,Nan,Nan
+609924,Fort Dearborn Elementary School,612,2,606,1,0,3,Nan,Nan,Nan,Nan
+609925,Joseph Kellman Corporate Community ES,305,0,305,0,0,0,Nan,Nan,Nan,Nan
+609926,Franklin Elementary Fine Arts Center,358,116,132,45,3,62,Nan,Nan,Nan,Nan
+609927,Foster Park Elementary School,546,1,540,0,0,5,Nan,Nan,Nan,Nan
+609928,Melville W Fuller Elementary School,283,1,282,0,0,0,Nan,Nan,Nan,Nan
+609929,Robert Fulton Elementary School,654,1,538,1,1,113,Nan,Nan,Nan,Nan
+609930,Frederick Funston Elementary School,564,9,66,0,0,489,Nan,Nan,Nan,Nan
+609932,Jesse Owens Elementary Community Academy,418,1,409,0,2,6,Nan,Nan,Nan,Nan
+609933,Stephen F Gale Elementary Community Academy,539,14,366,24,0,135,Nan,Nan,Nan,Nan
+609935,Matthew Gallistel Elementary Language Academy,"1,379",26,49,0,0,"1,304",Nan,Nan,Nan,Nan
+609937,John W Garvy Elementary School,644,403,10,64,1,166,Nan,Nan,Nan,Nan
+609938,Joseph E Gary Elementary School,"1,232",8,2,1,0,"1,221",Nan,Nan,Nan,Nan
+609939,Frank L Gillespie Elementary School,536,0,531,0,0,5,Nan,Nan,Nan,Nan
+609941,Asa Philip Randolph Elementary School,752,2,748,0,1,1,Nan,Nan,Nan,Nan
+609942,Johann W von Goethe Elementary School,764,61,29,7,0,667,Nan,Nan,Nan,Nan
+609943,Samuel Gompers Fine Arts Options ES,358,1,356,0,0,1,Nan,Nan,Nan,Nan
+609944,Virgil Grissom Elementary School,346,104,24,5,1,212,Nan,Nan,Nan,Nan
+609945,William C Goudy Elementary School,712,91,129,271,0,221,Nan,Nan,Nan,Nan
+609947,Alexander Graham Elementary School,537,204,152,0,0,181,Nan,Nan,Nan,Nan
+609949,William P Gray Elementary School,"1,252",227,40,41,4,940,Nan,Nan,Nan,Nan
+609950,Josefa Ortiz De Dominguez Elementary School,789,3,2,0,0,784,Nan,Nan,Nan,Nan
+609951,Ariel Elementary Community Academy,454,2,443,1,0,8,Nan,Nan,Nan,Nan
+609952,Nathanael Greene Elementary School,596,44,4,10,0,538,Nan,Nan,Nan,Nan
+609954,John Milton Gregory Elementary School,425,0,425,0,0,0,Nan,Nan,Nan,Nan
+609955,Walter Q Gresham Elementary School,453,1,452,0,0,0,Nan,Nan,Nan,Nan
+609956,Robert L Grimes Elementary School,500,105,11,1,0,383,Nan,Nan,Nan,Nan
+609958,Frank W Gunsaulus Elementary Scholastic Academy,729,76,117,33,0,503,Nan,Nan,Nan,Nan
+609959,John Charels Haines Elementary School,732,5,62,660,0,5,Nan,Nan,Nan,Nan
+609960,Nathan Hale Elementary School,897,326,12,17,1,541,Nan,Nan,Nan,Nan
+609961,Ninos Heroes Elementary Academic Center,599,1,472,0,0,126,Nan,Nan,Nan,Nan
+609963,Alexander Hamilton Elementary School,209,55,67,10,0,77,Nan,Nan,Nan,Nan
+609964,John H Hamline Elementary School,815,11,100,1,0,703,Nan,Nan,Nan,Nan
+609966,Charles G Hammond Elementary School,506,10,40,0,0,456,Nan,Nan,Nan,Nan
+609967,William F Finkl Elementary School,679,5,40,3,3,628,Nan,Nan,Nan,Nan
+609968,Sharon Christa McAuliffe Elementary School,844,12,50,0,0,782,Nan,Nan,Nan,Nan
+609969,Bret Harte Elementary School,424,15,364,10,1,34,Nan,Nan,Nan,Nan
+609971,John Harvard Elementary School,519,5,512,0,0,2,Nan,Nan,Nan,Nan
+609972,Helge A Haugan Elementary School,"1,172",77,69,69,2,955,Nan,Nan,Nan,Nan
+609973,Emiliano Zapata Elementary Academy,976,6,7,0,0,963,Nan,Nan,Nan,Nan
+609974,Hawthorne Elementary Scholastic Academy,561,243,84,81,17,136,Nan,Nan,Nan,Nan
+609975,John Hay Elementary Community Academy,713,0,688,1,1,23,Nan,Nan,Nan,Nan
+609976,Stephen K Hayt Elementary School,940,106,156,234,0,444,Nan,Nan,Nan,Nan
+609977,Woodlawn Community Elementary School,234,1,233,0,0,0,Nan,Nan,Nan,Nan
+609978,Wendell Smith Elementary School,419,0,419,0,0,0,Nan,Nan,Nan,Nan
+609979,Robert Healy Elementary School,"1,294",212,16,753,1,312,Nan,Nan,Nan,Nan
+609981,Phobe Apperson Hearst Elementary School,521,2,356,2,0,161,Nan,Nan,Nan,Nan
+609983,James Hedges Elementary School,931,6,38,0,0,887,Nan,Nan,Nan,Nan
+609985,Helen M Hefferan Elementary School,418,1,413,0,1,3,Nan,Nan,Nan,Nan
+609986,Charles R Henderson Elementary School,461,1,455,0,0,5,Nan,Nan,Nan,Nan
+609987,Thomas A Hendricks Elementary Community Academy,294,3,291,0,0,0,Nan,Nan,Nan,Nan
+609988,Patrick Henry Elementary School,664,38,26,21,0,579,Nan,Nan,Nan,Nan
+609989,Victor Herbert Elementary School,431,2,419,1,0,9,Nan,Nan,Nan,Nan
+609990,South Loop Elementary School,567,153,298,71,3,42,Nan,Nan,Nan,Nan
+609991,Theodore Herzl Elementary School,630,0,621,0,0,9,Nan,Nan,Nan,Nan
+609993,Agustin Lara Elementary Academy,590,16,17,3,0,554,Nan,Nan,Nan,Nan
+609994,William G Hibbard Elementary School,"1,197",86,97,133,0,881,Nan,Nan,Nan,Nan
+609995,Rufus M Hitch Elementary School,465,209,10,66,3,177,Nan,Nan,Nan,Nan
+609996,Charles N Holden Elementary School,625,106,30,82,1,406,Nan,Nan,Nan,Nan
+609997,Oliver Wendell Holmes Elementary School,462,1,460,0,0,1,Nan,Nan,Nan,Nan
+609999,Nia Middle Elementary School,52,0,52,0,0,0,Nan,Nan,Nan,Nan
+610000,Julia Ward Howe Elementary School,540,0,537,1,1,1,Nan,Nan,Nan,Nan
+610002,Thomas Hoyne Elementary School,344,1,340,0,0,3,Nan,Nan,Nan,Nan
+610003,Paul Cuffe Math-Science Technology Academy ES,594,0,593,0,0,1,Nan,Nan,Nan,Nan
+610004,Countee Cullen Elementary School,326,0,324,2,0,0,Nan,Nan,Nan,Nan
+610005,Charles Evans Hughes Elementary School,386,0,383,0,0,3,Nan,Nan,Nan,Nan
+610006,Edward N Hurley Elementary School,979,20,26,2,0,931,Nan,Nan,Nan,Nan
+610009,Galileo Math & Science Scholastic Academy ES,612,76,143,32,2,359,Nan,Nan,Nan,Nan
+610010,Friedrich Ludwig Jahn Elementary School,437,57,41,7,0,332,Nan,Nan,Nan,Nan
+610011,Minnie Mars Jamieson Elementary School,789,270,62,255,1,201,Nan,Nan,Nan,Nan
+610012,Edward Jenner Elementary Academy of the Arts,429,0,426,0,0,3,Nan,Nan,Nan,Nan
+610013,Pilsen Elementary Community Academy,452,4,11,1,0,436,Nan,Nan,Nan,Nan
+610015,Joseph Jungman Elementary School,327,2,14,0,1,310,Nan,Nan,Nan,Nan
+610016,Kate S Kellogg Elementary School,271,35,228,1,0,7,Nan,Nan,Nan,Nan
+610017,Maria Saucedo Elementary Scholastic Academy,"1,269",5,44,4,1,"1,215",Nan,Nan,Nan,Nan
+610018,Miriam G Canter Middle School,237,4,223,1,0,9,Nan,Nan,Nan,Nan
+610019,Joshua D Kershaw Elementary School,273,1,270,0,0,2,Nan,Nan,Nan,Nan
+610020,Francis Scott Key Elementary School,389,1,383,1,0,4,Nan,Nan,Nan,Nan
+610021,Pablo Casals Elementary School,511,4,259,0,0,248,Nan,Nan,Nan,Nan
+610022,Joyce Kilmer Elementary School,850,50,211,76,4,509,Nan,Nan,Nan,Nan
+610023,William H King Elementary School,316,2,245,0,0,69,Nan,Nan,Nan,Nan
+610024,Lazaro Cardenas Elementary School,606,1,10,0,0,595,Nan,Nan,Nan,Nan
+610026,John H Kinzie Elementary School,729,300,31,6,0,392,Nan,Nan,Nan,Nan
+610027,Rudyard Kipling Elementary School,455,0,454,0,0,1,Nan,Nan,Nan,Nan
+610028,Alfred David Kohn Elementary School,532,1,527,0,0,4,Nan,Nan,Nan,Nan
+610029,Rodolfo Lozano Bilingual & International Ctr ES,411,14,27,3,0,367,Nan,Nan,Nan,Nan
+610030,Charles Kozminski Elementary Community Academy,452,5,444,0,0,3,Nan,Nan,Nan,Nan
+610031,Jean D Lafayette Elementary School,627,6,230,3,1,387,Nan,Nan,Nan,Nan
+610032,Wendell E Green Elementary School,266,1,265,0,0,0,Nan,Nan,Nan,Nan
+610033,LaSalle Elementary Language Academy,573,194,155,91,4,129,Nan,Nan,Nan,Nan
+610034,Lawndale Elementary Community Academy,568,0,566,0,0,2,Nan,Nan,Nan,Nan
+610036,Leslie Lewis Elementary School,813,3,700,0,1,109,Nan,Nan,Nan,Nan
+610037,Arthur A Libby Elementary School,569,0,528,0,0,41,Nan,Nan,Nan,Nan
+610038,Abraham Lincoln Elementary School,662,409,115,81,6,51,Nan,Nan,Nan,Nan
+610039,Carl von Linne Elementary School,645,35,11,6,2,591,Nan,Nan,Nan,Nan
+610040,Henry D Lloyd Elementary School,"1,331",22,67,3,0,"1,239",Nan,Nan,Nan,Nan
+610041,Josephine C Locke Elementary School,"1,301",180,27,46,0,"1,048",Nan,Nan,Nan,Nan
+610043,Joseph Lovett Elementary School,504,3,454,0,0,47,Nan,Nan,Nan,Nan
+610044,James Russell Lowell Elementary School,756,10,201,2,0,543,Nan,Nan,Nan,Nan
+610045,Robert H Lawrence Elementary School,456,0,450,0,2,4,Nan,Nan,Nan,Nan
+610046,Mary Lyon Elementary School,"1,270",68,20,23,2,"1,157",Nan,Nan,Nan,Nan
+610047,James Madison Elementary School,437,0,436,0,0,1,Nan,Nan,Nan,Nan
+610048,George Manierre Elementary School,507,1,503,0,1,2,Nan,Nan,Nan,Nan
+610051,Northwest Middle School,966,23,55,2,0,886,Nan,Nan,Nan,Nan
+610052,Horace Mann Elementary School,637,0,633,1,1,2,Nan,Nan,Nan,Nan
+610053,Marquette Elementary School,"1,579",18,706,1,1,853,Nan,Nan,Nan,Nan
+610054,John L Marsh Elementary School,858,24,63,0,3,768,Nan,Nan,Nan,Nan
+610055,Michael Faraday Elementary School,247,0,247,0,0,0,Nan,Nan,Nan,Nan
+610056,Roswell B Mason Elementary School,547,0,541,0,0,6,Nan,Nan,Nan,Nan
+610057,Fairfield Elementary Academy,646,1,348,3,1,293,Nan,Nan,Nan,Nan
+610058,Horatio May Elementary Community Academy,588,0,581,0,0,7,Nan,Nan,Nan,Nan
+610059,Oscar F Mayer Elementary School,565,133,270,17,2,143,Nan,Nan,Nan,Nan
+610060,Andrew Jackson Elementary Language Academy,545,172,101,159,2,111,Nan,Nan,Nan,Nan
+610061,William J & Charles H Mayo Elementary School,478,0,476,0,0,2,Nan,Nan,Nan,Nan
+610062,George B McClellan Elementary School,227,42,21,15,1,148,Nan,Nan,Nan,Nan
+610063,Cyrus H McCormick Elementary School,916,3,0,1,0,912,Nan,Nan,Nan,Nan
+610065,Emmett Louis Till Math and Science Academy,635,2,631,1,1,0,Nan,Nan,Nan,Nan
+610066,James E McDade Elementary Classical School,192,2,190,0,0,0,Nan,Nan,Nan,Nan
+610067,Francis M McKay Elementary School,"1,052",0,936,1,10,105,Nan,Nan,Nan,Nan
+610068,Hanson Park Elementary School,"1,620",37,65,12,2,"1,504",Nan,Nan,Nan,Nan
+610070,James B McPherson Elementary School,695,98,36,46,0,515,Nan,Nan,Nan,Nan
+610071,Joseph Medill Elementary School,147,0,147,0,0,0,Nan,Nan,Nan,Nan
+610072,Garrett A Morgan Elementary School,299,0,298,0,0,1,Nan,Nan,Nan,Nan
+610073,Ellen Mitchell Elementary School,296,27,51,3,3,212,Nan,Nan,Nan,Nan
+610074,James Monroe Elementary School,"1,247",23,40,3,1,"1,180",Nan,Nan,Nan,Nan
+610075,Moses Montefiore Special Elementary School,62,2,46,0,0,14,Nan,Nan,Nan,Nan
+610076,Bernhard Moos Elementary School,575,19,74,4,0,478,Nan,Nan,Nan,Nan
+610077,Donald Morrill Math & Science Elementary School,911,1,418,0,0,492,Nan,Nan,Nan,Nan
+610078,Inter-American Elementary Magnet School,670,90,45,14,6,515,Nan,Nan,Nan,Nan
+610081,Mark Sheridan Elementary Math & Science Academy,535,197,90,137,9,102,Nan,Nan,Nan,Nan
+610082,Mount Greenwood Elementary School,716,571,42,6,3,94,Nan,Nan,Nan,Nan
+610083,Daniel C Beard Elementary School,162,74,32,12,0,44,Nan,Nan,Nan,Nan
+610084,Annie Keller Elementary Gifted Magnet School,227,83,101,3,1,39,Nan,Nan,Nan,Nan
+610085,Near North Special Education Center,106,8,65,0,0,33,Nan,Nan,Nan,Nan
+610086,Mount Vernon Elementary School,314,1,310,0,1,2,Nan,Nan,Nan,Nan
+610087,Blair Early Childhood Center,124,22,37,1,0,64,Nan,Nan,Nan,Nan
+610088,Wolfgang A Mozart Elementary School,873,19,54,1,2,797,Nan,Nan,Nan,Nan
+610089,John B Murphy Elementary School,553,111,19,21,0,402,Nan,Nan,Nan,Nan
+610090,Phillip Murray Elementary Language Academy,474,90,348,22,1,13,Nan,Nan,Nan,Nan
+610091,Ronald Brown Elementary Community Academy,321,1,320,0,0,0,Nan,Nan,Nan,Nan
+610092,Henry H Nash Elementary School,584,1,579,0,0,4,Nan,Nan,Nan,Nan
+610093,Jane A Neil Elementary School,379,2,370,0,0,7,Nan,Nan,Nan,Nan
+610094,Louis Nettelhorst Elementary School,525,297,92,45,4,87,Nan,Nan,Nan,Nan
+610095,Walter L Newberry Math & Science Academy ES,518,150,183,28,3,154,Nan,Nan,Nan,Nan
+610096,Florence Nightingale Elementary School,"1,416",14,25,2,0,"1,375",Nan,Nan,Nan,Nan
+610097,William P Nixon Elementary School,"1,015",8,18,4,1,984,Nan,Nan,Nan,Nan
+610098,Alfred Nobel Elementary School,828,5,137,0,1,685,Nan,Nan,Nan,Nan
+610099,Norwood Park Elementary School,362,242,8,18,16,78,Nan,Nan,Nan,Nan
+610100,West Park Elementary Academy,714,2,221,1,2,488,Nan,Nan,Nan,Nan
+610101,William B Ogden Elementary School,684,287,231,70,2,94,Nan,Nan,Nan,Nan
+610102,Richard J Oglesby Elementary School,558,1,556,0,0,1,Nan,Nan,Nan,Nan
+610103,Isabelle C O'Keeffe Elementary School,675,0,675,0,0,0,Nan,Nan,Nan,Nan
+610104,William J Onahan Elementary School,601,397,15,16,6,167,Nan,Nan,Nan,Nan
+610105,Oriole Park Elementary School,640,479,8,42,1,110,Nan,Nan,Nan,Nan
+610106,Brian Piccolo Elementary Specialty School,757,2,538,0,0,217,Nan,Nan,Nan,Nan
+610107,James Otis Elementary School,439,26,65,3,2,343,Nan,Nan,Nan,Nan
+610108,Luke O'Toole Elementary School,746,0,742,0,0,4,Nan,Nan,Nan,Nan
+610109,William Bishop Owen Scholastic Academy ES,240,12,207,3,1,17,Nan,Nan,Nan,Nan
+610110,Ida B Wells Preparatory Elementary Academy,149,0,144,0,0,5,Nan,Nan,Nan,Nan
+610111,John Palmer Elementary School,961,353,14,165,2,427,Nan,Nan,Nan,Nan
+610112,Francis W Parker Elementary Community Academy,716,2,706,0,1,7,Nan,Nan,Nan,Nan
+610114,Francis Parkman Elementary School,156,1,137,0,0,18,Nan,Nan,Nan,Nan
+610115,Park Manor Elementary School,378,0,377,1,0,0,Nan,Nan,Nan,Nan
+610116,Parkside Elementary Community Academy,373,0,371,0,0,2,Nan,Nan,Nan,Nan
+610117,Louis Pasteur Elementary School,"1,391",109,19,9,1,"1,253",Nan,Nan,Nan,Nan
+610119,Elizabeth Peabody Elementary School,264,6,74,0,0,184,Nan,Nan,Nan,Nan
+610120,Ferdinand Peck Elementary School,"1,532",50,4,2,0,"1,476",Nan,Nan,Nan,Nan
+610121,Washington Irving Elementary School,506,18,317,15,1,155,Nan,Nan,Nan,Nan
+610122,Helen Peirce International Studies ES,880,107,81,79,0,613,Nan,Nan,Nan,Nan
+610123,William Penn Elementary School,398,0,346,0,0,52,Nan,Nan,Nan,Nan
+610124,Harold Washington Elementary School,667,1,663,0,1,2,Nan,Nan,Nan,Nan
+610125,Irma C Ruiz Elementary School,"1,008",15,11,6,0,976,Nan,Nan,Nan,Nan
+610126,John J Pershing Elementary Humanities Magnet,254,3,238,6,0,7,Nan,Nan,Nan,Nan
+610127,Mary Gage Peterson Elementary School,925,277,68,331,1,248,Nan,Nan,Nan,Nan
+610128,Marcus Moziah Garvey Elementary School,421,1,420,0,0,0,Nan,Nan,Nan,Nan
+610129,Josiah Pickard Elementary School,652,8,15,1,2,626,Nan,Nan,Nan,Nan
+610130,John T Pirie Fine Arts & Academic Center ES,476,0,474,1,0,1,Nan,Nan,Nan,Nan
+610131,Ambrose Plamondon Elementary School,207,0,35,0,0,172,Nan,Nan,Nan,Nan
+610132,Edgar Allan Poe Elementary Classical School,183,4,176,0,2,1,Nan,Nan,Nan,Nan
+610133,Laura S Ward Elementary School,443,1,439,0,0,3,Nan,Nan,Nan,Nan
+610134,Nathaniel Pope Elementary School,181,0,169,0,0,12,Nan,Nan,Nan,Nan
+610135,Portage Park Elementary School,"1,121",489,27,39,2,564,Nan,Nan,Nan,Nan
+610136,William H Prescott Elementary School,227,36,27,8,0,156,Nan,Nan,Nan,Nan
+610137,Ernst Prussing Elementary School,688,379,11,40,4,254,Nan,Nan,Nan,Nan
+610138,Casimir Pulaski Elementary Fine Arts Academy,827,37,30,5,0,755,Nan,Nan,Nan,Nan
+610139,George M Pullman Elementary School,342,4,271,0,0,67,Nan,Nan,Nan,Nan
+610141,Ravenswood Elementary School,432,99,86,12,0,235,Nan,Nan,Nan,Nan
+610142,William H Ray Elementary School,672,142,379,91,4,56,Nan,Nan,Nan,Nan
+610143,William C Reavis Math & Science Specialty ES,391,1,389,0,0,1,Nan,Nan,Nan,Nan
+610144,Frank W Reilly Elementary School,"1,554",144,23,18,1,"1,368",Nan,Nan,Nan,Nan
+610145,Peter A Reinberg Elementary School,"1,348",298,21,76,2,951,Nan,Nan,Nan,Nan
+610146,Paul Revere Elementary School,452,0,452,0,0,0,Nan,Nan,Nan,Nan
+610147,Philip Rogers Elementary School,720,161,120,192,3,244,Nan,Nan,Nan,Nan
+610148,Cesar E Chavez Multicultural Academic Center ES,874,20,51,1,0,802,Nan,Nan,Nan,Nan
+610150,Betsy Ross Elementary School,411,0,411,0,0,0,Nan,Nan,Nan,Nan
+610152,Martha Ruggles Elementary School,478,2,474,0,0,2,Nan,Nan,Nan,Nan
+610153,William H Ryder Math & Science Specialty ES,369,0,368,0,0,1,Nan,Nan,Nan,Nan
+610154,Martin A Ryerson Elementary School,507,2,502,0,0,3,Nan,Nan,Nan,Nan
+610155,Sauganash Elementary School,506,267,15,91,2,131,Nan,Nan,Nan,Nan
+610156,Louis Armstrong Math & Science Elementary School,144,0,144,0,0,0,Nan,Nan,Nan,Nan
+610157,Sidney Sawyer Elementary School,"2,098",21,9,0,7,"2,061",Nan,Nan,Nan,Nan
+610158,Harriet E Sayre Elementary Language Academy,557,90,245,8,0,214,Nan,Nan,Nan,Nan
+610159,Jonathan Y Scammon Elementary School,"1,097",97,18,21,2,959,Nan,Nan,Nan,Nan
+610160,Songhai Elementary Learning Institute,388,0,386,0,0,2,Nan,Nan,Nan,Nan
+610161,Arna Wendell Bontemps Elementary School,393,1,388,0,0,4,Nan,Nan,Nan,Nan
+610162,Frederick von Schiller Elementary School,190,1,189,0,0,0,Nan,Nan,Nan,Nan
+610163,Frederick Stock Elementary School,265,197,6,12,1,49,Nan,Nan,Nan,Nan
+610164,George Schneider Elementary School,146,5,114,1,0,26,Nan,Nan,Nan,Nan
+610165,Franz Peter Schubert Elementary School,"1,335",72,22,11,2,"1,228",Nan,Nan,Nan,Nan
+610167,William H Seward Communication Arts Academy ES,910,16,15,0,0,879,Nan,Nan,Nan,Nan
+610169,Austin O Sexton Elementary School,422,0,422,0,0,0,Nan,Nan,Nan,Nan
+610170,Columbia Explorers Elementary Academy,"1,004",26,2,0,1,975,Nan,Nan,Nan,Nan
+610171,Arnold Mireles Elementary Academy,"1,082",6,573,0,2,501,Nan,Nan,Nan,Nan
+610172,William T Sherman Elementary School,584,1,579,0,0,4,Nan,Nan,Nan,Nan
+610173,Jesse Sherwood Elementary School,393,0,392,0,0,1,Nan,Nan,Nan,Nan
+610174,James Shields Elementary School,"1,810",36,25,1,1,"1,747",Nan,Nan,Nan,Nan
+610175,Beulah Shoesmith Elementary School,341,0,333,1,0,7,Nan,Nan,Nan,Nan
+610176,John D Shoop Math-Science Technical Academy ES,745,0,745,0,0,0,Nan,Nan,Nan,Nan
+610177,Mark Skinner Elementary School,618,88,319,144,2,65,Nan,Nan,Nan,Nan
+610178,Theophilus Schmid Elementary School,247,3,237,0,0,7,Nan,Nan,Nan,Nan
+610179,Washington D Smyser Elementary School,937,404,15,41,7,470,Nan,Nan,Nan,Nan
+610180,John M Smyth Elementary School,592,2,580,2,0,8,Nan,Nan,Nan,Nan
+610182,Hannah G Solomon Elementary School,367,177,15,125,1,49,Nan,Nan,Nan,Nan
+610183,Herbert Spencer Elementary Math & Science Academy,892,3,884,0,1,4,Nan,Nan,Nan,Nan
+610184,John Spry Elementary Community School,838,1,1,0,0,836,Nan,Nan,Nan,Nan
+610185,Adlai E Stevenson Elementary School,"1,350",109,107,8,0,"1,126",Nan,Nan,Nan,Nan
+610187,Graeme Stewart Elementary School,374,8,218,21,0,127,Nan,Nan,Nan,Nan
+610188,Edward F Dunne Elementary School,418,0,418,0,0,0,Nan,Nan,Nan,Nan
+610189,Joseph Stockton Elementary School,515,29,233,40,2,211,Nan,Nan,Nan,Nan
+610191,Stone Elementary Scholastic Academy,630,197,133,167,8,125,Nan,Nan,Nan,Nan
+610192,Harriet Beecher Stowe Elementary School,979,12,75,4,0,888,Nan,Nan,Nan,Nan
+610193,William K New Sullivan Elementary School,554,7,397,1,0,149,Nan,Nan,Nan,Nan
+610194,Charles Sumner  Math & Science Community Acad ES,480,1,477,1,0,1,Nan,Nan,Nan,Nan
+610195,Elizabeth H Sutherland Elementary School,760,338,374,8,3,37,Nan,Nan,Nan,Nan
+610196,George B Swift Elementary Specialty School,699,124,282,60,15,218,Nan,Nan,Nan,Nan
+610197,Mancel Talcott Elementary School,537,50,40,1,1,445,Nan,Nan,Nan,Nan
+610198,Douglas Taylor Elementary School,712,13,80,0,0,619,Nan,Nan,Nan,Nan
+610199,Johnnie Colemon Elementary Academy,286,0,279,0,0,7,Nan,Nan,Nan,Nan
+610200,James N Thorp Elementary School,537,1,443,0,0,93,Nan,Nan,Nan,Nan
+610201,Ole A Thorp Elementary Scholastic Academy,827,258,173,98,13,285,Nan,Nan,Nan,Nan
+610202,George W Tilton Elementary School,414,1,412,0,0,1,Nan,Nan,Nan,Nan
+610203,Enrico Tonti Elementary School,"1,251",15,50,1,1,"1,184",Nan,Nan,Nan,Nan
+610205,Lyman Trumbull Elementary School,466,49,75,61,3,278,Nan,Nan,Nan,Nan
+610206,Mark Twain Elementary School,"1,039",330,10,8,1,690,Nan,Nan,Nan,Nan
+610207,John H Vanderpoel Elementary Magnet School,327,0,327,0,0,0,Nan,Nan,Nan,Nan
+610208,Mildred I Lavizzo Elementary School,506,6,499,0,0,1,Nan,Nan,Nan,Nan
+610209,Alessandro Volta Elementary School,"1,002",108,63,259,0,572,Nan,Nan,Nan,Nan
+610210,Alexander von Humboldt Elementary School,563,4,227,0,0,332,Nan,Nan,Nan,Nan
+610212,Albany Park Multicultural Middle School,277,19,31,32,0,195,Nan,Nan,Nan,Nan
+610213,James Wadsworth Elementary School,354,3,346,0,0,5,Nan,Nan,Nan,Nan
+610215,Francisco I Madero Middle School,327,0,0,0,0,327,Nan,Nan,Nan,Nan
+610216,John A Walsh Elementary School,519,5,30,6,0,478,Nan,Nan,Nan,Nan
+610217,James Ward Elementary School,464,26,73,300,0,65,Nan,Nan,Nan,Nan
+610218,Joseph Warren Elementary School,385,1,384,0,0,0,Nan,Nan,Nan,Nan
+610219,George Washington Elementary School,778,87,13,2,0,676,Nan,Nan,Nan,Nan
+610220,Thomas J Waters Elementary School,449,178,27,28,2,214,Nan,Nan,Nan,Nan
+610221,Daniel Webster Elementary School,439,0,438,1,0,0,Nan,Nan,Nan,Nan
+610223,Daniel S Wentworth Elementary School,427,0,421,0,0,6,Nan,Nan,Nan,Nan
+610224,West Pullman Elementary School,424,1,422,0,0,1,Nan,Nan,Nan,Nan
+610225,John Whistler Elementary School,431,0,429,0,0,2,Nan,Nan,Nan,Nan
+610226,Socorro Sandoval Elementary School,"1,282",19,7,0,0,"1,256",Nan,Nan,Nan,Nan
+610227,Eli Whitney Elementary School,"1,092",5,2,0,0,"1,085",Nan,Nan,Nan,Nan
+610228,John Greenleaf Whittier Elementary School,386,3,3,1,0,379,Nan,Nan,Nan,Nan
+610229,Abram N Pritzker Elementary School,632,143,298,17,1,173,Nan,Nan,Nan,Nan
+610230,Wildwood Elementary School,354,186,27,44,2,95,Nan,Nan,Nan,Nan
+610231,National Teachers Elementary Academy,434,1,431,0,0,2,Nan,Nan,Nan,Nan
+610232,Williams Multiplex Elementary School,313,1,312,0,0,0,Nan,Nan,Nan,Nan
+610233,Elihu Yale Elementary School,294,1,293,0,0,0,Nan,Nan,Nan,Nan
+610234,Richard Yates Elementary School,809,13,107,1,10,678,Nan,Nan,Nan,Nan
+610235,Ella Flagg Young Elementary School,"1,422",7,"1,309",2,0,104,Nan,Nan,Nan,Nan
+610237,Ludwig Van Beethoven Elementary School,411,1,409,0,0,1,Nan,Nan,Nan,Nan
+610238,Carrie Jacobs Bond Elementary School,419,2,402,0,0,15,Nan,Nan,Nan,Nan
+610239,Richard J Daley Elementary Academy,892,4,149,1,0,738,Nan,Nan,Nan,Nan
+610240,Matthew A Henson Elementary School,391,1,387,0,0,3,Nan,Nan,Nan,Nan
+610241,Guglielmo Marconi Elementary Community Academy,279,1,278,0,0,0,Nan,Nan,Nan,Nan
+610242,Joseph Brennemann Elementary School,330,13,245,10,4,58,Nan,Nan,Nan,Nan
+610243,John Calhoun North Elementary School,424,0,424,0,0,0,Nan,Nan,Nan,Nan
+610244,Michele Clark Academic Prep Magnet High School,"1,013",3,"1,004",1,1,4,Nan,Nan,Nan,Nan
+610245,Frederick A Douglass Academy High School,556,1,548,0,0,7,Nan,Nan,Nan,Nan
+610246,Edward Beasley Elementary Magnet Academic Center,"1,423",16,"1,360",15,1,31,Nan,Nan,Nan,Nan
+610248,Chicago Academy Elementary School,588,185,68,25,3,307,Nan,Nan,Nan,Nan
+610249,Talman Elementary School,347,6,9,0,0,332,Nan,Nan,Nan,Nan
+610250,Ruben Salazar Elementary Bilingual Center,385,14,63,2,1,305,Nan,Nan,Nan,Nan
+610251,Willa Cather Elementary School,210,0,210,0,0,0,Nan,Nan,Nan,Nan
+610252,Robert Nathaniel Dett Elementary School,246,2,241,0,0,3,Nan,Nan,Nan,Nan
+610253,Julia C Lathrop Elementary School,322,0,319,0,0,3,Nan,Nan,Nan,Nan
+610254,Anton Dvorak Elementary Specialty Academy,604,0,598,0,0,6,Nan,Nan,Nan,Nan
+610256,Jackie Robinson Elementary School,228,0,226,2,0,0,Nan,Nan,Nan,Nan
+610257,Morton Elementary Career Academy,284,1,269,0,0,14,Nan,Nan,Nan,Nan
+610258,Florence B Price Elementary School,196,0,196,0,0,0,Nan,Nan,Nan,Nan
+610260,Helen J McCorkle Elementary School,310,0,310,0,0,0,Nan,Nan,Nan,Nan
+610263,John Foster Dulles Elementary School,429,1,428,0,0,0,Nan,Nan,Nan,Nan
+610264,Walter Reed Elementary School,297,0,297,0,0,0,Nan,Nan,Nan,Nan
+610265,Benjamin Banneker Elementary School,378,0,377,1,0,0,Nan,Nan,Nan,Nan
+610266,Alexandre Dumas Elementary School,382,3,378,0,0,1,Nan,Nan,Nan,Nan
+610268,Arthur R Ashe Elementary School,584,2,580,0,0,2,Nan,Nan,Nan,Nan
+610269,John T McCutcheon Elementary School,333,13,176,86,0,58,Nan,Nan,Nan,Nan
+610271,Jensen Elementary Scholastic Academy,440,2,437,0,0,1,Nan,Nan,Nan,Nan
+610273,Ignance Paderewski Elementary Learning Academy,182,0,147,0,0,35,Nan,Nan,Nan,Nan
+610274,James Weldon Johnson Elementary School,281,0,279,0,0,2,Nan,Nan,Nan,Nan
+610276,Irvin C Mollison Elementary School,293,0,293,0,0,0,Nan,Nan,Nan,Nan
+610277,Anthony Overton Elementary School,429,1,427,0,1,0,Nan,Nan,Nan,Nan
+610279,Henry O Tanner Elementary School,522,2,517,0,0,3,Nan,Nan,Nan,Nan
+610280,Kate S Buckingham Special Education Center,33,2,30,0,0,1,Nan,Nan,Nan,Nan
+610281,Adam Clayton Powell Paideia Community Academy ES,548,0,545,0,0,3,Nan,Nan,Nan,Nan
+610282,Ronald E McNair Elementary School,576,2,560,0,0,14,Nan,Nan,Nan,Nan
+610283,Simon Guggenheim Elementary School,296,0,292,0,0,4,Nan,Nan,Nan,Nan
+610284,New Field Elementary School,708,33,206,28,1,440,Nan,Nan,Nan,Nan
+610285,Granville T Woods Math & Science Academy ES,511,4,506,0,0,1,Nan,Nan,Nan,Nan
+610286,South Chicago Community Elementary School,213,2,184,2,0,25,Nan,Nan,Nan,Nan
+610287,Ashburn Community Elementary School,518,8,431,1,0,78,Nan,Nan,Nan,Nan
+610290,Benjamin E Mays Elementary Academy,352,0,341,0,0,11,Nan,Nan,Nan,Nan
+610291,Richard Henry Lee Elementary School,"1,111",49,18,0,0,"1,044",Nan,Nan,Nan,Nan
+610293,Genevieve Melody Elementary School,409,0,408,0,1,0,Nan,Nan,Nan,Nan
+610295,Thomas J Higgins Elementary Community Academy,424,2,421,1,0,0,Nan,Nan,Nan,Nan
+610296,High School of Technology at South Shore,365,0,363,0,0,2,Nan,Nan,Nan,Nan
+610297,High School of Leadership at South Shore,373,0,370,0,1,2,Nan,Nan,Nan,Nan
+610298,Lenart Elementary Regional Gifted Center,322,70,219,22,1,10,Nan,Nan,Nan,Nan
+610299,William A Hinton Elementary School,421,2,417,1,0,1,Nan,Nan,Nan,Nan
+610300,Oliver S Westcott Elementary School,547,1,543,0,1,2,Nan,Nan,Nan,Nan
+610301,Big Picture High School at Back of The Yards,25,0,0,0,0,25,Nan,Nan,Nan,Nan
+610304,Phoenix Military Academy High School,385,7,189,6,0,183,Nan,Nan,Nan,Nan
+610305,George Leland Elementary School,199,0,198,0,0,1,Nan,Nan,Nan,Nan
+610306,Juana I De La Cruz Math & Science Specialty ES,72,0,1,1,0,70,Nan,Nan,Nan,Nan
+610307,Bowen Environmental Studies High School,313,0,291,0,0,22,Nan,Nan,Nan,Nan
+610308,Wilma Rudolph Elementary Learning Center,109,3,51,3,1,51,Nan,Nan,Nan,Nan
+610309,Chicago Discovery Academy High School,422,1,228,0,0,193,Nan,Nan,Nan,Nan
+610310,High School of the Arts at South Shore,411,2,408,0,0,1,Nan,Nan,Nan,Nan
+610311,Entrepreneurship High School,440,0,437,0,0,3,Nan,Nan,Nan,Nan
+610312,Mary E McDowell Elementary School,205,0,204,0,0,1,Nan,Nan,Nan,Nan
+610313,Jose De Diego Elementary Community Academy,993,35,118,20,0,820,Nan,Nan,Nan,Nan
+610314,Davis Developmental Center,87,6,65,0,0,16,Nan,Nan,Nan,Nan
+610315,Edward White Elementary Career Academy,194,0,194,0,0,0,Nan,Nan,Nan,Nan
+610316,Amelia Earhart Options for Knowledge ES,279,1,278,0,0,0,Nan,Nan,Nan,Nan
+610317,Brighton Park Elementary School,910,17,4,3,1,885,Nan,Nan,Nan,Nan
+610319,Evergreen Academy Middle School,427,25,8,9,1,384,Nan,Nan,Nan,Nan
+610320,Ana Roque de Duprey Elementary School,314,11,50,1,1,251,Nan,Nan,Nan,Nan
+610321,Thurgood Marshall Middle School,665,33,27,11,0,594,Nan,Nan,Nan,Nan
+610323,New Millennium High School of Health at Bowen,316,1,291,0,1,23,Nan,Nan,Nan,Nan
+610324,Bowen Global Visions Academy High School,260,3,231,0,1,25,Nan,Nan,Nan,Nan
+610325,Logandale Middle School,311,6,27,4,2,272,Nan,Nan,Nan,Nan
+610329,Orozco Fine Arts & Sciences Elementary School,663,3,7,1,1,651,Nan,Nan,Nan,Nan
+610334,Al Raby High School,538,1,528,0,1,8,Nan,Nan,Nan,Nan
+610336,Williams Preparatory Academy Middle School Total,117,0,117,0,0,0,Nan,Nan,Nan,Nan
+610337,Big Picture High School at Williams Multiplex,19,0,17,0,0,2,Nan,Nan,Nan,Nan
+610339,Amos Alonzo Stagg Elementary School,614,1,606,0,0,7,Nan,Nan,Nan,Nan
+610340,Chicago Academy High School,497,106,115,22,2,252,Nan,Nan,Nan,Nan
+610342,Albert R Sabin Elementary Magnet School,610,10,122,8,1,469,Nan,Nan,Nan,Nan
+610345,Carter G Woodson South Elementary School,479,2,468,0,0,9,Nan,Nan,Nan,Nan
+610347,Claremont Academy Elementary School,584,3,569,1,0,11,Nan,Nan,Nan,Nan
+610348,Nathan R Goldblatt Elementary School,331,0,331,0,0,0,Nan,Nan,Nan,Nan
+610349,Princeton A C Elementary School,152,1,14,0,0,137,Nan,Nan,Nan,Nan
+610350,Robert A Black Magnet Elementary School,458,4,445,0,1,8,Nan,Nan,Nan,Nan
+610352,Durkin Park Elementary School,497,59,86,4,0,348,Nan,Nan,Nan,Nan
+610353,McKinley Park Elementary School,310,4,2,0,0,304,Nan,Nan,Nan,Nan
+610354,North River Elementary School,302,23,17,15,0,247,Nan,Nan,Nan,Nan
+610355,Mary E Courtenay Elementary Language Arts Center,235,29,37,13,0,156,Nan,Nan,Nan,Nan
+610357,Spry Community Links High School,134,0,0,0,0,134,Nan,Nan,Nan,Nan
+610362,Medgar Evers Elementary School,386,0,386,0,0,0,Nan,Nan,Nan,Nan
+610363,Walt Disney Magnet Elementary School,"1,577",339,642,235,11,350,Nan,Nan,Nan,Nan
+610364,William E B DuBois Elementary School,196,0,187,0,0,9,Nan,Nan,Nan,Nan
+610365,Mary McLeod Bethune Elementary School,353,0,351,0,0,2,Nan,Nan,Nan,Nan
+610366,Charles H Wacker Elementary School,237,0,236,0,0,1,Nan,Nan,Nan,Nan
+610367,Oscar DePriest Elementary School,667,1,652,1,0,13,Nan,Nan,Nan,Nan
+610368,Langston Hughes Elementary School,255,0,250,1,0,4,Nan,Nan,Nan,Nan
+610369,Mahalia Jackson Elementary School,321,0,317,1,0,3,Nan,Nan,Nan,Nan
+610370,Best Practice High School,238,1,220,0,0,17,Nan,Nan,Nan,Nan
+610371,IDOC/Healy South High School,76,3,63,0,0,10,Nan,Nan,Nan,Nan
+610374,Robeson Achievement Academy High School,187,0,185,0,0,2,Nan,Nan,Nan,Nan
+610375,Tilden Achievement Academy High School,213,4,146,1,0,62,Nan,Nan,Nan,Nan
+610377,Senn Achievement Academy High School,71,9,24,2,1,35,Nan,Nan,Nan,Nan
+610378,Crane Achievement Academy High School,350,0,342,0,0,8,Nan,Nan,Nan,Nan
+610380,Daniel Hale Williams Prep School of Medicine,322,3,307,1,0,11,Nan,Nan,Nan,Nan
+610381,Bronzeville Scholastic Academy High School,521,2,516,0,0,3,Nan,Nan,Nan,Nan
+610383,Greater Lawndale High School For Social Justice,350,3,79,0,0,268,Nan,Nan,Nan,Nan
+610384,Infinity Math Science and Technology High School,340,0,73,1,0,266,Nan,Nan,Nan,Nan
+610385,Multicultural Arts High School,323,1,80,0,0,242,Nan,Nan,Nan,Nan
+610386,Peace & Education Coalition High School,103,2,25,0,0,76,Nan,Nan,Nan,Nan
+610388,LINC Alternative High School,533,1,511,0,0,21,Nan,Nan,Nan,Nan
+610389,Orr Academy High School,"1,185",1,"1,083",0,1,100,Nan,Nan,Nan,Nan
+610390,Hyman G Rickover Naval Academy High School,397,44,86,17,0,250,Nan,Nan,Nan,Nan
+610391,Robert Lindblom Math & Science Academy HS,654,22,508,7,0,117,Nan,Nan,Nan,Nan
+610392,World Language Academy High School,342,3,47,0,0,292,Nan,Nan,Nan,Nan
+610394,Uplift Community High School,558,19,434,21,1,83,Nan,Nan,Nan,Nan
+610395,Pershing West Middle School,274,2,260,4,0,8,Nan,Nan,Nan,Nan
+610396,Tarkington School of Excellence ES,"1,089",8,293,0,0,788,Nan,Nan,Nan,Nan
+610401,Clemente Achievement Academy High School,218,5,105,0,0,108,Nan,Nan,Nan,Nan
+610402,DeVry University Advantage Academy HS,197,18,88,5,0,86,Nan,Nan,Nan,Nan
+610405,Suder Montessori Magnet ES,206,28,127,11,0,40,Nan,Nan,Nan,Nan
+610499,Collins Academy High School,241,0,230,0,0,11,Nan,Nan,Nan,Nan
+610501,Austin Polytechnical Academy High School,258,0,253,0,1,4,Nan,Nan,Nan,Nan
+610502,Marine Military Academy High School,240,10,110,4,0,116,Nan,Nan,Nan,Nan
+610503,Frazier International Magnet Elementary School,173,0,169,0,0,4,Nan,Nan,Nan,Nan
+610504,Velma F Thomas Early Childhood Center,174,11,3,4,0,156,Nan,Nan,Nan,Nan
+610506,TEAM Englewood Community Academy High School,282,1,279,1,0,1,Nan,Nan,Nan,Nan
+610515,Walt Disney II Magnet Elementary School,205,102,27,8,2,66,Nan,Nan,Nan,Nan
+610518,VOISE Academy High School,149,1,146,1,0,1,Nan,Nan,Nan,Nan
+610520,LaSalle II Elementary Language Academy,228,50,27,3,0,148,Nan,Nan,Nan,Nan
+610521,Sir Miles Davis Magnet Elementary Academy,558,0,558,0,0,0,Nan,Nan,Nan,Nan
+610523,Edison Park Elementary School,258,191,0,10,1,56,Nan,Nan,Nan,Nan

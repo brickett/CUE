@@ -1,0 +1,798 @@
+﻿School ID,School,Total,White,AfricanAmerican,API,NativeAmericanAlaskan,Hispanic,MR,Asian,HPR,NA
+400008.00,ACT Chtr HS,324,1,321,0,0,2,Nan,Nan,Nan,Nan
+400009.00,Globel Citizenship,150,17,11,1,0,121,Nan,Nan,Nan,Nan
+400010.00,ACE Tech Chtr HS,507,30,333,2,1,141,Nan,Nan,Nan,Nan
+400011.00,"Locke, A. Charter",511,0,507,0,0,4,Nan,Nan,Nan,Nan
+400012.00,Amandla Elementay Chrtr,216,0,213,0,0,3,Nan,Nan,Nan,Nan
+400013.00,ASPIRA Chrt - Early College,414,10,32,5,0,367,Nan,Nan,Nan,Nan
+400015.00,ASPIRA Chrt - Ramirez,436,13,29,5,0,389,Nan,Nan,Nan,Nan
+400017.00,ASPIRA Chrt - Haugan,483,37,35,15,0,396,Nan,Nan,Nan,Nan
+400018.00,Austin Bus & Entrp HS,486,3,482,0,0,1,Nan,Nan,Nan,Nan
+400019.00,Bronzeville LH Chrt,457,1,449,1,1,5,Nan,Nan,Nan,Nan
+400020.00,Catalyst Chrt - Howland,389,1,387,0,0,1,Nan,Nan,Nan,Nan
+400021.00,Catalyst Circle Rock,336,0,334,0,0,2,Nan,Nan,Nan,Nan
+400022.00,Chicago Arts HS,146,32,70,4,0,40,Nan,Nan,Nan,Nan
+400023.00,CICS - Avalon/So Shore,420,0,420,0,0,0,Nan,Nan,Nan,Nan
+400024.00,CICS- Basil,730,0,688,1,0,41,Nan,Nan,Nan,Nan
+400025.00,CICS - Bucktown,628,39,136,7,0,446,Nan,Nan,Nan,Nan
+400026.00,CICS - Loomis,585,2,577,2,0,4,Nan,Nan,Nan,Nan
+400027.00,CICS - Irving Park,408,51,83,15,1,258,Nan,Nan,Nan,Nan
+400028.00,CICS- Prairie,425,1,254,0,0,170,Nan,Nan,Nan,Nan
+400029.00,CICS- Washington,427,0,426,0,0,1,Nan,Nan,Nan,Nan
+400030.00,CICS - W. Belden,501,6,44,0,0,451,Nan,Nan,Nan,Nan
+400031.00,CICS- Wrightwood,722,4,712,0,1,5,Nan,Nan,Nan,Nan
+400032.00,CICS - Ellison,576,3,565,2,0,6,Nan,Nan,Nan,Nan
+400033.00,CICS - Longwood,"1,473",1,"1,460",0,0,12,Nan,Nan,Nan,Nan
+400034.00,CICS - Northtown,836,225,87,103,5,416,Nan,Nan,Nan,Nan
+400035.00,Chgo Math/Sci Chtr,599,46,157,45,0,351,Nan,Nan,Nan,Nan
+400036.00,Chicago Virtual Chtr,553,99,363,38,1,52,Nan,Nan,Nan,Nan
+400038.00,Community Service West HS,151,0,146,0,0,5,Nan,Nan,Nan,Nan
+400039.00,Erie Charter,247,7,39,1,0,200,Nan,Nan,Nan,Nan
+400040.00,Frazier Prep Acad,486,0,481,0,0,5,Nan,Nan,Nan,Nan
+400041.00,Galapagos Charter,316,0,313,0,0,3,Nan,Nan,Nan,Nan
+400042.00,Ford Power House Chrt HS,260,0,258,0,0,2,Nan,Nan,Nan,Nan
+400043.00,Hope Inst Learning Acad,210,15,140,1,2,52,Nan,Nan,Nan,Nan
+400044.00,KIPP Ascend Charter,320,1,314,0,0,5,Nan,Nan,Nan,Nan
+400045.00,Nkrumah Academy,109,0,109,0,0,0,Nan,Nan,Nan,Nan
+400046.00,LEARN Chrt -  Butler,491,3,484,0,0,4,Nan,Nan,Nan,Nan
+400047.00,LEARN Chrt - North Lawndale,222,0,220,0,0,2,Nan,Nan,Nan,Nan
+400048.00,LEARN Chrt - EXCEL,244,0,241,1,0,2,Nan,Nan,Nan,Nan
+400049.00,Legacy Charter,368,0,364,0,0,4,Nan,Nan,Nan,Nan
+400050.00,Namaste Charter,370,37,29,10,4,290,Nan,Nan,Nan,Nan
+400051.00,Noble St Chrt Hs -College Prep,550,17,80,3,1,449,Nan,Nan,Nan,Nan
+400052.00,Nobel St Chrt HS - Comer,294,1,279,0,0,14,Nan,Nan,Nan,Nan
+400053.00,Noble St Chrt HS - Golder,422,26,54,5,0,337,Nan,Nan,Nan,Nan
+400054.00,Noble St Chrt HS - Prtizker,595,9,36,8,0,542,Nan,Nan,Nan,Nan
+400055.00,Noble St Chrt HS - Rauner,513,27,76,7,0,403,Nan,Nan,Nan,Nan
+400056.00,Noble St Chrt HS - Clark,426,10,274,0,0,142,Nan,Nan,Nan,Nan
+400057.00,Nobel St ChrtHS - UIC College Prep,399,21,92,7,0,279,Nan,Nan,Nan,Nan
+400058.00,North Lawndale Chrt -Christiana,409,1,400,0,0,8,Nan,Nan,Nan,Nan
+400059.00,North Lawndale Chrt - Collins,332,0,328,0,0,4,Nan,Nan,Nan,Nan
+400060.00,Passages Chrt,291,23,158,63,3,44,Nan,Nan,Nan,Nan
+400061.00,Perspectives Chrt - Calumet HS,485,0,484,0,1,0,Nan,Nan,Nan,Nan
+400062.00,Perspectives Chrt - Cal Tech HS,447,0,446,0,0,1,Nan,Nan,Nan,Nan
+400064.00,Perspectives Chrt  - Joslin,351,13,216,4,1,117,Nan,Nan,Nan,Nan
+400066.00,Perspectives Chrt - ITT Math/Science,520,8,476,2,2,32,Nan,Nan,Nan,Nan
+400067.00,Perspectives Chrt - Claumet MS,398,0,396,1,0,1,Nan,Nan,Nan,Nan
+400068.00,Plato Learning Acad,322,1,319,0,0,2,Nan,Nan,Nan,Nan
+400069.00,Polaris Charter Acad,244,1,221,0,0,22,Nan,Nan,Nan,Nan
+400070.00,Prologue Early College HS,247,7,191,4,2,43,Nan,Nan,Nan,Nan
+400071.00,Providence-Englewood Chrt,415,0,410,0,1,4,Nan,Nan,Nan,Nan
+400072.00,Shabazz Charter,304,0,303,0,0,1,Nan,Nan,Nan,Nan
+400073.00,Shabazz Chrt - DuSable,372,1,369,0,0,2,Nan,Nan,Nan,Nan
+400074.00,Shabazz Chrt - Sizmore,203,0,201,0,1,1,Nan,Nan,Nan,Nan
+400075.00,U Of C Chrt - Donoghue,382,1,380,0,0,1,Nan,Nan,Nan,Nan
+400076.00,U Of C Chrt - North Kenwood,307,4,301,1,0,1,Nan,Nan,Nan,Nan
+400077.00,U Of C Chrt - Woodlawn,521,2,511,1,0,7,Nan,Nan,Nan,Nan
+400078.00,U of C Chrt - Woodson,353,0,348,1,1,3,Nan,Nan,Nan,Nan
+400079.00,UNO Chrt - SPC Zizumbo,583,11,4,5,0,563,Nan,Nan,Nan,Nan
+400080.00,UNO Chrt - PFC Torres,587,9,10,1,0,567,Nan,Nan,Nan,Nan
+400081.00,UNO Chrt - Las Casas,266,2,3,0,0,261,Nan,Nan,Nan,Nan
+400082.00,UNO Chrt - Fuentes,526,12,9,6,1,498,Nan,Nan,Nan,Nan
+400083.00,UNO Chrt - Paz Interm,374,0,129,1,0,244,Nan,Nan,Nan,Nan
+400084.00,UNO Chrt - Tamayo,269,2,1,0,0,266,Nan,Nan,Nan,Nan
+400085.00,UNO Charter - Major Garcia,284,0,3,1,1,279,Nan,Nan,Nan,Nan
+400086.00,Urban Prep Chtr HS,565,1,564,0,0,0,Nan,Nan,Nan,Nan
+400087.00,Yng Women Ldrshp Chrt,334,22,263,1,0,48,Nan,Nan,Nan,Nan
+400089.00,UNO Charter - Marquez,539,6,6,0,0,527,Nan,Nan,Nan,Nan
+400091.00,Chicago Adv Tech Acad HS,146,7,116,1,0,22,Nan,Nan,Nan,Nan
+400092.00,CICS - Lloyd Bond,342,0,342,0,0,0,Nan,Nan,Nan,Nan
+400093.00,Chicago Talent Dev HS,94,1,91,0,0,2,Nan,Nan,Nan,Nan
+400094.00,EPIC Acad HS,119,0,82,0,0,37,Nan,Nan,Nan,Nan
+400095.00,Garfield Park Prep Acad,118,1,111,0,0,6,Nan,Nan,Nan,Nan
+400096.00,Rowe,149,6,41,1,3,98,Nan,Nan,Nan,Nan
+400097.00,Noble St Chrt HS - Chgo Bulls College,229,3,103,0,0,123,Nan,Nan,Nan,Nan
+400098.00,Noble St Chrt HS- Muchin,255,15,117,8,0,115,Nan,Nan,Nan,Nan
+400102.00,Urban Prep Acad - E Garfield HS,125,0,123,0,0,2,Nan,Nan,Nan,Nan
+609674.00,Chicago Voc HS,"1,438",5,"1,420",0,0,13,Nan,Nan,Nan,Nan
+609675.00,Chicago Voc AA HS,294,1,284,0,0,9,Nan,Nan,Nan,Nan
+609676.00,Dunbar Voc HS,"1,612",3,"1,593",1,2,13,Nan,Nan,Nan,Nan
+609678.00,Jones CPHS,827,233,211,113,7,263,Nan,Nan,Nan,Nan
+609679.00,Prosser HS,"1,417",128,446,5,1,837,Nan,Nan,Nan,Nan
+609680.00,Payton CPHS,908,306,247,132,6,217,Nan,Nan,Nan,Nan
+609682.00,Richards HS,600,6,159,0,0,435,Nan,Nan,Nan,Nan
+609683.00,Safe School Alt HS,337,5,279,0,0,53,Nan,Nan,Nan,Nan
+609686.00,Youth Connect Chrt,"3,408",93,"2,340",13,2,960,Nan,Nan,Nan,Nan
+609691.00,North-Grand HS,899,10,51,1,0,837,Nan,Nan,Nan,Nan
+609692.00,Simeon HS,"1,557",1,"1,549",1,0,6,Nan,Nan,Nan,Nan
+609693.00,Westinghouse HS,280,5,215,4,0,56,Nan,Nan,Nan,Nan
+609694.00,Hancock HS,997,57,28,4,5,903,Nan,Nan,Nan,Nan
+609695.00,Amundsen HS,"1,630",181,237,165,3,"1,044",Nan,Nan,Nan,Nan
+609698.00,Bogan Tech HS,"1,938",51,"1,135",7,2,743,Nan,Nan,Nan,Nan
+609702.00,Crane Tech HS,720,2,704,1,0,13,Nan,Nan,Nan,Nan
+609704.00,Farragut HS,"1,771",10,329,0,2,"1,430",Nan,Nan,Nan,Nan
+609705.00,Fenger  HS,"1,190",3,"1,183",1,0,3,Nan,Nan,Nan,Nan
+609706.00,Fenger AA HS,128,0,128,0,0,0,Nan,Nan,Nan,Nan
+609707.00,Robeson HS,"1,265",0,"1,260",0,1,4,Nan,Nan,Nan,Nan
+609708.00,Foreman HS,"1,931",93,331,14,1,"1,492",Nan,Nan,Nan,Nan
+609709.00,Gage Park HS,"1,619",11,788,0,1,819,Nan,Nan,Nan,Nan
+609710.00,Harlan HS,"1,353",1,"1,346",0,1,5,Nan,Nan,Nan,Nan
+609711.00,Harper HS,771,1,769,0,0,1,Nan,Nan,Nan,Nan
+609712.00,Hirsch HS,673,4,665,0,0,4,Nan,Nan,Nan,Nan
+609713.00,Hyde Park HS,"1,836",4,"1,828",0,1,3,Nan,Nan,Nan,Nan
+609715.00,Kelly HS,"3,186",102,74,252,4,"2,754",Nan,Nan,Nan,Nan
+609716.00,Kelvyn Park HS,"1,455",27,117,4,0,"1,307",Nan,Nan,Nan,Nan
+609718.00,Kennedy HS,"1,665",546,162,17,3,937,Nan,Nan,Nan,Nan
+609719.00,Lake View HS,"1,560",223,220,162,12,943,Nan,Nan,Nan,Nan
+609720.00,Lane Tech HS,"4,183","1,277",521,545,31,"1,809",Nan,Nan,Nan,Nan
+609722.00,Manley HS,881,5,874,0,0,2,Nan,Nan,Nan,Nan
+609723.00,Marshall HS,998,1,993,0,0,4,Nan,Nan,Nan,Nan
+609724.00,Mather HS,"1,636",362,260,402,8,604,Nan,Nan,Nan,Nan
+609725.00,Morgan Park HS,"1,684",37,"1,610",1,1,35,Nan,Nan,Nan,Nan
+609726.00,Brooks CPHS,749,9,646,1,3,90,Nan,Nan,Nan,Nan
+609727.00,Phillips HS,746,5,734,4,0,3,Nan,Nan,Nan,Nan
+609728.00,Roosevelt HS,"1,453",101,149,130,4,"1,069",Nan,Nan,Nan,Nan
+609729.00,Schurz HS,"2,187",179,174,49,7,"1,778",Nan,Nan,Nan,Nan
+609730.00,Senn HS,"1,067",67,410,128,4,458,Nan,Nan,Nan,Nan
+609732.00,Steinmetz HS,"1,959",229,365,30,3,"1,332",Nan,Nan,Nan,Nan
+609733.00,Sullivan HS,797,46,416,81,0,254,Nan,Nan,Nan,Nan
+609734.00,Taft HS,"2,677","1,434",93,226,11,913,Nan,Nan,Nan,Nan
+609735.00,Tilden HS,680,30,472,19,0,159,Nan,Nan,Nan,Nan
+609736.00,Dyett HS,530,0,530,0,0,0,Nan,Nan,Nan,Nan
+609737.00,Von Steuben HS,"1,630",424,399,218,4,585,Nan,Nan,Nan,Nan
+609738.00,Lincoln Park HS,"2,150",667,677,258,6,542,Nan,Nan,Nan,Nan
+609739.00,"Washington, G. HS","1,450",111,219,3,3,"1,114",Nan,Nan,Nan,Nan
+609740.00,Wells HS,665,15,327,0,0,323,Nan,Nan,Nan,Nan
+609741.00,Hubbard HS,"1,795",73,176,19,3,"1,524",Nan,Nan,Nan,Nan
+609743.00,Phillips AA HS,103,2,56,0,0,45,Nan,Nan,Nan,Nan
+609744.00,Northside Lrn Ctr HS,301,58,84,13,2,144,Nan,Nan,Nan,Nan
+609745.00,Southside Occp HS,183,10,140,0,0,33,Nan,Nan,Nan,Nan
+609746.00,Kenwood HS,"1,791",47,"1,600",74,3,67,Nan,Nan,Nan,Nan
+609748.00,York Alt HS,329,12,256,1,0,60,Nan,Nan,Nan,Nan
+609749.00,Northside CPHS,"1,074",413,57,344,11,249,Nan,Nan,Nan,Nan
+609750.00,Simpson HS,110,2,92,0,0,16,Nan,Nan,Nan,Nan
+609751.00,King CPHS,926,10,880,13,0,23,Nan,Nan,Nan,Nan
+609753.00,Chicago Agr Sci HS,595,195,316,3,1,80,Nan,Nan,Nan,Nan
+609754.00,Chicago Mil Acad HS,501,10,377,2,1,111,Nan,Nan,Nan,Nan
+609755.00,Young Magnet HS,"2,244",680,693,424,7,440,Nan,Nan,Nan,Nan
+609756.00,Curie HS,"3,578",154,481,193,0,"2,750",Nan,Nan,Nan,Nan
+609759.00,Clemente HS,"1,588",30,548,2,2,"1,006",Nan,Nan,Nan,Nan
+609760.00,Carver Mil Acad HS,520,11,261,0,0,248,Nan,Nan,Nan,Nan
+609761.00,Corliss HS,908,2,890,1,0,15,Nan,Nan,Nan,Nan
+609762.00,Julian HS,"1,420",3,"1,410",2,0,5,Nan,Nan,Nan,Nan
+609764.00,Juarez HS,"1,564",16,55,20,1,"1,472",Nan,Nan,Nan,Nan
+609765.00,Las Casas HS,70,0,65,0,0,5,Nan,Nan,Nan,Nan
+609766.00,Vaughn Occp HS,230,37,85,4,1,103,Nan,Nan,Nan,Nan
+609768.00,Hope CPHS,807,0,797,0,0,10,Nan,Nan,Nan,Nan
+609769.00,"Graham, R. Trng CTR",171,7,96,5,0,63,Nan,Nan,Nan,Nan
+609772.00,Addams,912,36,15,0,0,861,Nan,Nan,Nan,Nan
+609773.00,Agassiz,397,129,133,12,2,121,Nan,Nan,Nan,Nan
+609774.00,Alcott,500,302,77,36,2,83,Nan,Nan,Nan,Nan
+609775.00,Altgeld,614,3,608,1,0,2,Nan,Nan,Nan,Nan
+609776.00,Andersen,171,2,31,0,0,138,Nan,Nan,Nan,Nan
+609777.00,Armour,346,31,17,7,1,290,Nan,Nan,Nan,Nan
+609779.00,"Armstrong, G.","1,374",134,323,237,10,670,Nan,Nan,Nan,Nan
+609780.00,Ames Middle,637,8,48,1,0,580,Nan,Nan,Nan,Nan
+609781.00,Attucks,282,2,279,1,0,0,Nan,Nan,Nan,Nan
+609782.00,Audubon,508,259,32,25,7,185,Nan,Nan,Nan,Nan
+609783.00,"Jefferson, N",360,9,297,0,4,50,Nan,Nan,Nan,Nan
+609786.00,Avalon Park,467,1,464,0,1,1,Nan,Nan,Nan,Nan
+609787.00,Avondale,723,18,34,5,1,665,Nan,Nan,Nan,Nan
+609788.00,Barnard,288,4,283,0,0,1,Nan,Nan,Nan,Nan
+609789.00,Barry,885,18,28,3,0,836,Nan,Nan,Nan,Nan
+609790.00,Barton,630,2,623,0,0,5,Nan,Nan,Nan,Nan
+609791.00,Bass,410,0,409,0,0,1,Nan,Nan,Nan,Nan
+609792.00,Bateman,"1,009",97,31,71,1,809,Nan,Nan,Nan,Nan
+609793.00,Nicholson,474,1,471,0,0,2,Nan,Nan,Nan,Nan
+609794.00,Edison,266,109,17,66,5,69,Nan,Nan,Nan,Nan
+609795.00,"Clark, G. R.",324,8,203,2,0,111,Nan,Nan,Nan,Nan
+609796.00,Beaubien,"1,178",463,49,197,9,460,Nan,Nan,Nan,Nan
+609797.00,Beidler,491,0,487,1,0,3,Nan,Nan,Nan,Nan
+609798.00,Belding,596,212,46,46,2,290,Nan,Nan,Nan,Nan
+609799.00,Bell,951,543,53,112,7,236,Nan,Nan,Nan,Nan
+609800.00,Bennett,619,1,616,1,0,1,Nan,Nan,Nan,Nan
+609803.00,Blaine,834,421,45,69,17,282,Nan,Nan,Nan,Nan
+609804.00,Boone,"1,073",231,117,276,4,445,Nan,Nan,Nan,Nan
+609805.00,Joplin,575,1,572,0,1,1,Nan,Nan,Nan,Nan
+609806.00,Bradwell,612,0,610,0,0,2,Nan,Nan,Nan,Nan
+609807.00,Hampton,725,6,417,0,0,302,Nan,Nan,Nan,Nan
+609808.00,Haley,553,0,550,0,0,3,Nan,Nan,Nan,Nan
+609809.00,Brentano,511,34,23,2,2,450,Nan,Nan,Nan,Nan
+609810.00,Bridge,887,537,18,26,4,302,Nan,Nan,Nan,Nan
+609811.00,Bright,376,3,246,1,0,126,Nan,Nan,Nan,Nan
+609812.00,"Brown, W.",213,1,203,1,0,8,Nan,Nan,Nan,Nan
+609813.00,Brownell,295,1,293,0,0,1,Nan,Nan,Nan,Nan
+609815.00,Bouchet,785,1,778,3,0,3,Nan,Nan,Nan,Nan
+609817.00,Budlong,828,267,41,174,2,344,Nan,Nan,Nan,Nan
+609818.00,Burbank,"1,284",20,136,10,0,"1,118",Nan,Nan,Nan,Nan
+609819.00,Burke,248,0,248,0,0,0,Nan,Nan,Nan,Nan
+609820.00,Burley,536,258,38,49,3,188,Nan,Nan,Nan,Nan
+609821.00,Burnham,266,0,264,0,0,2,Nan,Nan,Nan,Nan
+609826.00,Castellanos,580,0,10,1,0,569,Nan,Nan,Nan,Nan
+609827.00,Burnside Magnet,755,0,748,0,0,7,Nan,Nan,Nan,Nan
+609828.00,Burr,329,76,63,5,1,184,Nan,Nan,Nan,Nan
+609829.00,Burroughs,511,27,9,2,0,473,Nan,Nan,Nan,Nan
+609830.00,Brunson,686,2,666,1,0,17,Nan,Nan,Nan,Nan
+609832.00,Byrne,714,337,13,0,3,361,Nan,Nan,Nan,Nan
+609833.00,Caldwell,389,1,373,0,1,14,Nan,Nan,Nan,Nan
+609834.00,Little Village,801,2,1,0,0,798,Nan,Nan,Nan,Nan
+609835.00,Cameron,971,4,404,0,0,563,Nan,Nan,Nan,Nan
+609836.00,Canty,732,482,10,30,3,207,Nan,Nan,Nan,Nan
+609837.00,Carnegie,705,2,690,5,1,7,Nan,Nan,Nan,Nan
+609838.00,Carpenter,210,3,91,1,1,114,Nan,Nan,Nan,Nan
+609839.00,Carroll,632,0,612,0,0,20,Nan,Nan,Nan,Nan
+609842.00,Carson,"1,330",7,87,0,0,"1,236",Nan,Nan,Nan,Nan
+609844.00,Carter,419,1,418,0,0,0,Nan,Nan,Nan,Nan
+609845.00,Carver Elementary,442,0,438,0,0,4,Nan,Nan,Nan,Nan
+609848.00,Aldridge,293,0,291,0,1,1,Nan,Nan,Nan,Nan
+609849.00,Cassell,334,254,51,3,2,24,Nan,Nan,Nan,Nan
+609850.00,Greeley,546,63,87,7,0,389,Nan,Nan,Nan,Nan
+609851.00,Chalmers,255,0,255,0,0,0,Nan,Nan,Nan,Nan
+609852.00,Chappell,438,83,21,54,0,280,Nan,Nan,Nan,Nan
+609853.00,Chase,497,19,29,1,1,447,Nan,Nan,Nan,Nan
+609854.00,Chopin,296,14,28,1,0,253,Nan,Nan,Nan,Nan
+609855.00,Christopher,264,21,73,3,0,167,Nan,Nan,Nan,Nan
+609856.00,Clay,708,126,85,2,3,492,Nan,Nan,Nan,Nan
+609857.00,Cleveland,670,49,34,44,0,543,Nan,Nan,Nan,Nan
+609859.00,Clinton,"1,273",201,159,507,4,402,Nan,Nan,Nan,Nan
+609861.00,Clissold,610,182,382,9,1,36,Nan,Nan,Nan,Nan
+609862.00,Coles,585,1,581,0,1,2,Nan,Nan,Nan,Nan
+609863.00,Columbus,332,156,23,5,0,148,Nan,Nan,Nan,Nan
+609864.00,Cook,611,1,609,0,0,1,Nan,Nan,Nan,Nan
+609865.00,Jordan,719,10,291,3,0,415,Nan,Nan,Nan,Nan
+609866.00,Coonley,517,274,16,34,2,191,Nan,Nan,Nan,Nan
+609867.00,Cooper,740,7,7,4,0,722,Nan,Nan,Nan,Nan
+609869.00,Copernicus,353,0,351,2,0,0,Nan,Nan,Nan,Nan
+609870.00,Corkery,670,3,144,1,0,522,Nan,Nan,Nan,Nan
+609871.00,Vick EC Ctr,259,179,47,5,0,28,Nan,Nan,Nan,Nan
+609872.00,Perez,485,0,10,0,0,475,Nan,Nan,Nan,Nan
+609873.00,Crown,390,1,365,0,0,24,Nan,Nan,Nan,Nan
+609874.00,Dirksen,722,534,37,61,0,90,Nan,Nan,Nan,Nan
+609875.00,Darwin,697,31,80,6,1,579,Nan,Nan,Nan,Nan
+609876.00,"Davis, N.","1,502",23,9,4,1,"1,465",Nan,Nan,Nan,Nan
+609879.00,Dawes,"1,159",23,297,3,1,835,Nan,Nan,Nan,Nan
+609880.00,Decatur Classical,288,117,46,82,1,42,Nan,Nan,Nan,Nan
+609881.00,Delano,465,1,462,0,0,2,Nan,Nan,Nan,Nan
+609883.00,Deneen,492,2,488,0,0,2,Nan,Nan,Nan,Nan
+609884.00,Dever,817,494,18,31,4,270,Nan,Nan,Nan,Nan
+609885.00,Dewey,424,0,416,0,0,8,Nan,Nan,Nan,Nan
+609887.00,Dixon,668,1,664,0,1,2,Nan,Nan,Nan,Nan
+609888.00,Dodge,471,1,468,0,0,2,Nan,Nan,Nan,Nan
+609891.00,Doolittle,347,0,346,1,0,0,Nan,Nan,Nan,Nan
+609893.00,Dore,619,285,27,5,2,300,Nan,Nan,Nan,Nan
+609894.00,Drake,234,2,223,2,0,7,Nan,Nan,Nan,Nan
+609895.00,Turner-Drew Magnet,364,0,362,0,0,2,Nan,Nan,Nan,Nan
+609896.00,Drummond Magnet,310,111,21,17,1,160,Nan,Nan,Nan,Nan
+609897.00,Earle,377,1,376,0,0,0,Nan,Nan,Nan,Nan
+609898.00,Eberhart,"1,801",36,109,1,1,"1,654",Nan,Nan,Nan,Nan
+609899.00,Ebinger,607,456,8,28,8,107,Nan,Nan,Nan,Nan
+609900.00,Curtis,464,1,455,1,0,7,Nan,Nan,Nan,Nan
+609901.00,Edgebrook,458,315,14,54,3,72,Nan,Nan,Nan,Nan
+609902.00,Metcalfe,692,2,689,0,0,1,Nan,Nan,Nan,Nan
+609903.00,Edwards,"1,415",90,15,7,0,"1,303",Nan,Nan,Nan,Nan
+609904.00,Ellington,467,0,455,0,0,12,Nan,Nan,Nan,Nan
+609906.00,Emmet,526,0,526,0,0,0,Nan,Nan,Nan,Nan
+609907.00,Ericson Magnet,564,0,563,0,0,1,Nan,Nan,Nan,Nan
+609908.00,Esmond,396,1,390,1,1,3,Nan,Nan,Nan,Nan
+609909.00,Everett,346,15,10,11,1,309,Nan,Nan,Nan,Nan
+609910.00,Falconer,"1,601",93,46,20,0,"1,442",Nan,Nan,Nan,Nan
+609912.00,Farnsworth,587,278,21,55,3,230,Nan,Nan,Nan,Nan
+609913.00,Goodlow Magnet,523,1,520,0,0,2,Nan,Nan,Nan,Nan
+609916.00,Fermi,245,2,242,0,0,1,Nan,Nan,Nan,Nan
+609917.00,Fernwood,355,0,352,2,0,1,Nan,Nan,Nan,Nan
+609918.00,Field,372,25,162,33,0,152,Nan,Nan,Nan,Nan
+609919.00,Fiske,343,1,342,0,0,0,Nan,Nan,Nan,Nan
+609920.00,Kanoon Magnet,682,1,5,0,0,676,Nan,Nan,Nan,Nan
+609921.00,Telpochcalli,249,6,3,0,3,237,Nan,Nan,Nan,Nan
+609922.00,Belmont-Cragin,632,29,17,5,0,581,Nan,Nan,Nan,Nan
+609924.00,Fort Dearborn,593,2,587,0,0,4,Nan,Nan,Nan,Nan
+609925.00,Kellman,298,0,297,0,0,1,Nan,Nan,Nan,Nan
+609926.00,Franklin Magnet,361,118,131,46,3,63,Nan,Nan,Nan,Nan
+609927.00,Foster Park,508,2,502,0,0,4,Nan,Nan,Nan,Nan
+609928.00,Fuller,245,0,245,0,0,0,Nan,Nan,Nan,Nan
+609929.00,Fulton,529,0,431,1,0,97,Nan,Nan,Nan,Nan
+609930.00,Funston,592,6,59,1,0,526,Nan,Nan,Nan,Nan
+609932.00,Owens,388,0,384,0,0,4,Nan,Nan,Nan,Nan
+609933.00,Gale,513,10,355,21,1,126,Nan,Nan,Nan,Nan
+609935.00,Gallistel Magnet,"1,433",31,46,0,0,"1,356",Nan,Nan,Nan,Nan
+609937.00,"Garvy, J.",659,443,8,58,0,150,Nan,Nan,Nan,Nan
+609938.00,Gary,"1,185",5,3,1,0,"1,176",Nan,Nan,Nan,Nan
+609939.00,Gillespie,543,1,533,0,0,9,Nan,Nan,Nan,Nan
+609941.00,Randolph Magnet,680,5,670,1,1,3,Nan,Nan,Nan,Nan
+609942.00,Goethe,749,68,31,9,1,640,Nan,Nan,Nan,Nan
+609943.00,Gompers,312,1,309,0,0,2,Nan,Nan,Nan,Nan
+609944.00,Grissom,322,90,16,3,1,212,Nan,Nan,Nan,Nan
+609945.00,Goudy,728,77,128,305,1,217,Nan,Nan,Nan,Nan
+609947.00,"Graham, A.",517,197,166,0,0,154,Nan,Nan,Nan,Nan
+609949.00,Gray,"1,265",225,40,36,4,960,Nan,Nan,Nan,Nan
+609950.00,Ortiz De Dominguez,771,3,2,1,0,765,Nan,Nan,Nan,Nan
+609951.00,Ariel,462,2,453,1,0,6,Nan,Nan,Nan,Nan
+609952.00,"Greene, N.",642,42,6,8,0,586,Nan,Nan,Nan,Nan
+609954.00,Gregory,373,0,373,0,0,0,Nan,Nan,Nan,Nan
+609955.00,Gresham,443,0,443,0,0,0,Nan,Nan,Nan,Nan
+609956.00,Grimes,490,94,10,1,0,385,Nan,Nan,Nan,Nan
+609958.00,Gunsaulus Magnet,851,71,108,37,0,635,Nan,Nan,Nan,Nan
+609959.00,Haines,707,3,52,647,0,5,Nan,Nan,Nan,Nan
+609960.00,Hale,879,294,12,14,7,552,Nan,Nan,Nan,Nan
+609961.00,Ninos Heroes,530,1,413,0,0,116,Nan,Nan,Nan,Nan
+609963.00,Hamilton,243,67,71,13,2,90,Nan,Nan,Nan,Nan
+609964.00,Hamline,781,11,100,2,0,668,Nan,Nan,Nan,Nan
+609966.00,Hammond,496,13,43,0,0,440,Nan,Nan,Nan,Nan
+609967.00,Finkl,598,8,33,0,0,557,Nan,Nan,Nan,Nan
+609968.00,McAuliffe,849,14,42,0,0,793,Nan,Nan,Nan,Nan
+609969.00,Harte,368,17,311,12,1,27,Nan,Nan,Nan,Nan
+609971.00,Harvard,463,1,462,0,0,0,Nan,Nan,Nan,Nan
+609972.00,Haugan,"1,261",87,62,69,1,"1,042",Nan,Nan,Nan,Nan
+609973.00,Zapata,988,5,3,0,0,980,Nan,Nan,Nan,Nan
+609974.00,Hawthorne Magnet,564,241,80,90,20,133,Nan,Nan,Nan,Nan
+609975.00,Hay,640,0,616,1,0,23,Nan,Nan,Nan,Nan
+609976.00,Hayt,978,118,179,223,1,457,Nan,Nan,Nan,Nan
+609977.00,Woodlawn,222,0,221,0,0,1,Nan,Nan,Nan,Nan
+609978.00,"Smith, W.",401,0,401,0,0,0,Nan,Nan,Nan,Nan
+609979.00,Healy,"1,355",214,13,803,1,324,Nan,Nan,Nan,Nan
+609981.00,Hearst,344,9,189,1,0,145,Nan,Nan,Nan,Nan
+609983.00,Hedges,889,9,42,0,0,838,Nan,Nan,Nan,Nan
+609985.00,Hefferan,333,0,331,0,0,2,Nan,Nan,Nan,Nan
+609986.00,Henderson,457,0,449,0,0,8,Nan,Nan,Nan,Nan
+609987.00,Hendricks,319,3,316,0,0,0,Nan,Nan,Nan,Nan
+609988.00,Henry,681,35,26,24,2,594,Nan,Nan,Nan,Nan
+609989.00,Herbert,396,2,388,0,0,6,Nan,Nan,Nan,Nan
+609990.00,South Loop,640,163,337,85,0,55,Nan,Nan,Nan,Nan
+609991.00,Herzl,591,0,581,0,0,10,Nan,Nan,Nan,Nan
+609993.00,Lara,582,16,14,2,0,550,Nan,Nan,Nan,Nan
+609994.00,Hibbard,"1,190",94,64,125,0,907,Nan,Nan,Nan,Nan
+609995.00,Hitch,477,215,9,66,3,184,Nan,Nan,Nan,Nan
+609996.00,Holden,637,89,47,81,1,419,Nan,Nan,Nan,Nan
+609997.00,Holmes,404,1,402,0,0,1,Nan,Nan,Nan,Nan
+610000.00,Howe,548,0,543,1,2,2,Nan,Nan,Nan,Nan
+610002.00,Hoyne,331,2,328,0,0,1,Nan,Nan,Nan,Nan
+610003.00,Cuffe,565,0,563,0,0,2,Nan,Nan,Nan,Nan
+610004.00,Cullen,284,0,284,0,0,0,Nan,Nan,Nan,Nan
+610005.00,"Hughes, C.",348,0,345,0,0,3,Nan,Nan,Nan,Nan
+610006.00,Hurley,"1,037",13,30,2,0,992,Nan,Nan,Nan,Nan
+610009.00,Galileo Magnet,628,74,151,41,2,360,Nan,Nan,Nan,Nan
+610010.00,Jahn,433,47,36,7,0,343,Nan,Nan,Nan,Nan
+610011.00,Jamieson,819,271,60,261,1,226,Nan,Nan,Nan,Nan
+610012.00,Jenner,482,2,477,0,0,3,Nan,Nan,Nan,Nan
+610013.00,Pilsen,441,6,21,1,0,413,Nan,Nan,Nan,Nan
+610015.00,Jungman,323,3,10,0,0,310,Nan,Nan,Nan,Nan
+610016.00,Kellogg,283,44,231,1,0,7,Nan,Nan,Nan,Nan
+610017.00,Saucedo Magnet,"1,305",3,35,3,1,"1,263",Nan,Nan,Nan,Nan
+610018.00,Canter Middle,221,2,210,1,0,8,Nan,Nan,Nan,Nan
+610019.00,Kershaw Magnet,227,1,223,0,0,3,Nan,Nan,Nan,Nan
+610020.00,Key,363,1,360,0,0,2,Nan,Nan,Nan,Nan
+610021.00,Casals,488,2,240,0,0,246,Nan,Nan,Nan,Nan
+610022.00,Kilmer,850,51,203,91,1,504,Nan,Nan,Nan,Nan
+610023.00,King EL,312,2,242,0,0,68,Nan,Nan,Nan,Nan
+610024.00,Cardenas,612,1,10,0,0,601,Nan,Nan,Nan,Nan
+610026.00,Kinzie,736,284,26,5,0,421,Nan,Nan,Nan,Nan
+610027.00,Kipling,437,0,436,0,0,1,Nan,Nan,Nan,Nan
+610028.00,Kohn,484,0,479,2,1,2,Nan,Nan,Nan,Nan
+610029.00,Lozano Bilingual,374,10,20,3,0,341,Nan,Nan,Nan,Nan
+610030.00,Kozminski,467,8,456,0,0,3,Nan,Nan,Nan,Nan
+610031.00,Lafayette,505,6,169,2,1,327,Nan,Nan,Nan,Nan
+610032.00,"Green, W.",270,1,269,0,0,0,Nan,Nan,Nan,Nan
+610033.00,LaSalle Magnet,577,201,154,95,5,122,Nan,Nan,Nan,Nan
+610034.00,Lawndale,589,0,586,1,0,2,Nan,Nan,Nan,Nan
+610036.00,Lewis,674,3,587,0,0,84,Nan,Nan,Nan,Nan
+610037.00,Libby,582,0,540,0,0,42,Nan,Nan,Nan,Nan
+610038.00,Lincoln,706,448,111,82,7,58,Nan,Nan,Nan,Nan
+610039.00,Linne,624,32,8,5,2,577,Nan,Nan,Nan,Nan
+610040.00,Lloyd,"1,296",19,42,3,0,"1,232",Nan,Nan,Nan,Nan
+610041.00,"Locke, J","1,309",192,26,51,0,"1,040",Nan,Nan,Nan,Nan
+610043.00,Lovett,461,3,412,0,0,46,Nan,Nan,Nan,Nan
+610044.00,Lowell,687,8,166,1,0,512,Nan,Nan,Nan,Nan
+610045.00,Lawrence,436,0,428,0,2,6,Nan,Nan,Nan,Nan
+610046.00,Lyon,"1,380",81,41,32,2,"1,224",Nan,Nan,Nan,Nan
+610047.00,Madison,350,0,348,0,0,2,Nan,Nan,Nan,Nan
+610048.00,Manierre,513,0,510,0,1,2,Nan,Nan,Nan,Nan
+610051.00,Northwest Middle,908,19,45,4,0,840,Nan,Nan,Nan,Nan
+610052.00,Mann,582,0,579,1,1,1,Nan,Nan,Nan,Nan
+610053.00,Marquette,"1,511",13,654,1,1,842,Nan,Nan,Nan,Nan
+610054.00,Marsh,851,23,60,0,2,766,Nan,Nan,Nan,Nan
+610055.00,Faraday,208,0,208,0,0,0,Nan,Nan,Nan,Nan
+610056.00,Mason,540,0,534,0,0,6,Nan,Nan,Nan,Nan
+610057.00,Fairfield,651,0,344,2,1,304,Nan,Nan,Nan,Nan
+610058.00,May,500,0,497,0,0,3,Nan,Nan,Nan,Nan
+610059.00,Mayer Magnet,603,214,226,14,2,147,Nan,Nan,Nan,Nan
+610060.00,"Jackson, A. Magnet",545,171,106,153,2,113,Nan,Nan,Nan,Nan
+610061.00,Mayo,453,0,452,1,0,0,Nan,Nan,Nan,Nan
+610062.00,McClellan,287,45,67,21,0,154,Nan,Nan,Nan,Nan
+610063.00,McCormick,898,3,3,0,0,892,Nan,Nan,Nan,Nan
+610065.00,Till,560,0,556,0,1,3,Nan,Nan,Nan,Nan
+610066.00,McDade Classical,190,2,187,0,0,1,Nan,Nan,Nan,Nan
+610067.00,McKay,"1,045",2,921,1,7,114,Nan,Nan,Nan,Nan
+610068.00,Hanson Park,"1,402",22,46,12,2,"1,320",Nan,Nan,Nan,Nan
+610070.00,McPherson,685,100,29,41,1,514,Nan,Nan,Nan,Nan
+610072.00,Morgan,301,0,292,1,0,8,Nan,Nan,Nan,Nan
+610073.00,Mitchell,290,31,47,2,2,208,Nan,Nan,Nan,Nan
+610074.00,Monroe,"1,227",29,33,1,1,"1,163",Nan,Nan,Nan,Nan
+610075.00,Montefiore,52,4,38,0,0,10,Nan,Nan,Nan,Nan
+610076.00,Moos,501,15,63,4,0,419,Nan,Nan,Nan,Nan
+610077.00,Morrill,917,2,408,0,0,507,Nan,Nan,Nan,Nan
+610078.00,Inter-American Magnet,695,91,30,13,6,555,Nan,Nan,Nan,Nan
+610081.00,Sheridan Magnet,543,195,93,144,13,98,Nan,Nan,Nan,Nan
+610082.00,Mt Greenwood,766,615,30,6,5,110,Nan,Nan,Nan,Nan
+610083.00,Beard,161,68,29,14,0,50,Nan,Nan,Nan,Nan
+610084.00,Keller,235,92,99,5,1,38,Nan,Nan,Nan,Nan
+610085.00,Nr North SPED Ctr,89,6,53,0,0,30,Nan,Nan,Nan,Nan
+610086.00,Mt Vernon,318,0,315,0,1,2,Nan,Nan,Nan,Nan
+610087.00,Blair,128,25,39,1,1,62,Nan,Nan,Nan,Nan
+610088.00,Mozart,865,9,52,3,0,801,Nan,Nan,Nan,Nan
+610089.00,Murphy,523,108,17,20,0,378,Nan,Nan,Nan,Nan
+610090.00,Murray Magnet,460,96,322,29,1,12,Nan,Nan,Nan,Nan
+610091.00,"Brown, R.",331,1,329,1,0,0,Nan,Nan,Nan,Nan
+610092.00,Nash,485,1,480,0,0,4,Nan,Nan,Nan,Nan
+610093.00,Neil,355,2,346,0,0,7,Nan,Nan,Nan,Nan
+610094.00,Nettelhorst,631,388,93,53,1,96,Nan,Nan,Nan,Nan
+610095.00,Newberry Magnet,586,181,178,44,5,178,Nan,Nan,Nan,Nan
+610096.00,Nightingale,"1,420",15,26,1,0,"1,378",Nan,Nan,Nan,Nan
+610097.00,Nixon,"1,061",13,30,4,0,"1,014",Nan,Nan,Nan,Nan
+610098.00,Nobel,817,3,136,0,1,677,Nan,Nan,Nan,Nan
+610099.00,Norwood Park,380,261,6,13,17,83,Nan,Nan,Nan,Nan
+610100.00,West Park,772,2,265,1,3,501,Nan,Nan,Nan,Nan
+610101.00,Ogden,389,188,97,55,2,47,Nan,Nan,Nan,Nan
+610102.00,Oglesby,521,0,520,0,0,1,Nan,Nan,Nan,Nan
+610103.00,O'Keeffe,643,1,641,1,0,0,Nan,Nan,Nan,Nan
+610104.00,Onahan,633,426,15,20,8,164,Nan,Nan,Nan,Nan
+610105.00,Oriole Park,656,486,8,49,1,112,Nan,Nan,Nan,Nan
+610106.00,Piccolo,667,3,470,0,0,194,Nan,Nan,Nan,Nan
+610107.00,Otis,438,24,77,5,2,330,Nan,Nan,Nan,Nan
+610108.00,O'Toole,669,0,668,0,0,1,Nan,Nan,Nan,Nan
+610109.00,Owen Magnet,249,7,224,3,1,14,Nan,Nan,Nan,Nan
+610110.00,Wells Prep,168,0,164,0,0,4,Nan,Nan,Nan,Nan
+610111.00,Palmer,926,328,16,172,2,408,Nan,Nan,Nan,Nan
+610112.00,Parker,686,0,672,1,0,13,Nan,Nan,Nan,Nan
+610114.00,Parkman,226,0,171,0,0,55,Nan,Nan,Nan,Nan
+610115.00,Park Manor,375,1,373,1,0,0,Nan,Nan,Nan,Nan
+610116.00,Parkside,371,0,370,0,0,1,Nan,Nan,Nan,Nan
+610117.00,Pasteur,"1,469",108,26,14,0,"1,321",Nan,Nan,Nan,Nan
+610119.00,Peabody,250,9,58,1,0,182,Nan,Nan,Nan,Nan
+610120.00,Peck,"1,569",38,2,5,0,"1,524",Nan,Nan,Nan,Nan
+610121.00,Irving,502,12,323,6,2,159,Nan,Nan,Nan,Nan
+610122.00,Peirce,871,123,85,71,0,592,Nan,Nan,Nan,Nan
+610123.00,Penn,376,0,317,0,1,58,Nan,Nan,Nan,Nan
+610124.00,"Washington, H.",600,0,597,0,1,2,Nan,Nan,Nan,Nan
+610125.00,Ruiz,975,13,9,5,0,948,Nan,Nan,Nan,Nan
+610126.00,Pershing E. Magnet,251,4,235,7,1,4,Nan,Nan,Nan,Nan
+610127.00,Peterson,909,270,61,327,3,248,Nan,Nan,Nan,Nan
+610128.00,"Garvey, M.",376,0,373,0,0,3,Nan,Nan,Nan,Nan
+610129.00,Pickard,687,12,20,1,1,653,Nan,Nan,Nan,Nan
+610130.00,Pirie,470,0,466,1,0,3,Nan,Nan,Nan,Nan
+610131.00,Plamondon,179,1,30,0,1,147,Nan,Nan,Nan,Nan
+610132.00,Poe Classical,197,5,189,1,1,1,Nan,Nan,Nan,Nan
+610133.00,"Ward, L.",451,1,440,0,0,10,Nan,Nan,Nan,Nan
+610134.00,Pope,176,0,169,0,0,7,Nan,Nan,Nan,Nan
+610135.00,Portage Park,"1,150",494,27,43,2,584,Nan,Nan,Nan,Nan
+610136.00,Prescott,197,34,18,10,0,135,Nan,Nan,Nan,Nan
+610137.00,Prussing,664,355,10,45,5,249,Nan,Nan,Nan,Nan
+610138.00,Pulaski,811,48,24,4,1,734,Nan,Nan,Nan,Nan
+610139.00,Pullman,298,3,232,0,0,63,Nan,Nan,Nan,Nan
+610141.00,Ravenswood,484,159,85,17,0,223,Nan,Nan,Nan,Nan
+610142.00,Ray,642,136,372,81,2,51,Nan,Nan,Nan,Nan
+610143.00,Reavis,379,1,376,0,1,1,Nan,Nan,Nan,Nan
+610144.00,Reilly,"1,528",140,27,17,2,"1,342",Nan,Nan,Nan,Nan
+610145.00,Reinberg,"1,312",288,30,74,2,918,Nan,Nan,Nan,Nan
+610146.00,Revere,405,0,405,0,0,0,Nan,Nan,Nan,Nan
+610147.00,Rogers,724,150,111,198,3,262,Nan,Nan,Nan,Nan
+610148.00,Chavez,861,16,48,0,0,797,Nan,Nan,Nan,Nan
+610150.00,Ross,375,0,373,0,0,2,Nan,Nan,Nan,Nan
+610152.00,Ruggles,433,0,431,0,0,2,Nan,Nan,Nan,Nan
+610153.00,Ryder,326,0,326,0,0,0,Nan,Nan,Nan,Nan
+610154.00,Ryerson,515,2,508,0,0,5,Nan,Nan,Nan,Nan
+610155.00,Sauganash,535,300,16,91,4,124,Nan,Nan,Nan,Nan
+610156.00,"Armstrong, L.",133,0,133,0,0,0,Nan,Nan,Nan,Nan
+610157.00,Sawyer,"2,081",23,21,0,0,"2,037",Nan,Nan,Nan,Nan
+610158.00,Sayre,625,93,274,11,0,247,Nan,Nan,Nan,Nan
+610159.00,Scammon,"1,069",82,17,18,6,946,Nan,Nan,Nan,Nan
+610160.00,Songhai,407,0,402,0,0,5,Nan,Nan,Nan,Nan
+610161.00,Bontemps,359,2,352,0,0,5,Nan,Nan,Nan,Nan
+610163.00,Stock,284,225,7,15,0,37,Nan,Nan,Nan,Nan
+610164.00,Schneider,114,4,86,1,0,23,Nan,Nan,Nan,Nan
+610165.00,Schubert,"1,155",49,27,11,2,"1,066",Nan,Nan,Nan,Nan
+610167.00,Seward,888,17,12,0,0,859,Nan,Nan,Nan,Nan
+610169.00,Sexton,399,0,399,0,0,0,Nan,Nan,Nan,Nan
+610170.00,Columbia Explorers,"1,106",33,5,1,1,"1,066",Nan,Nan,Nan,Nan
+610171.00,Mireles,"1,006",7,539,0,2,458,Nan,Nan,Nan,Nan
+610172.00,Sherman,520,0,512,1,0,7,Nan,Nan,Nan,Nan
+610173.00,Sherwood,405,0,402,0,0,3,Nan,Nan,Nan,Nan
+610174.00,Shields,"1,885",39,27,2,0,"1,817",Nan,Nan,Nan,Nan
+610175.00,Shoesmith,378,2,356,6,3,11,Nan,Nan,Nan,Nan
+610176.00,Shoop,680,0,680,0,0,0,Nan,Nan,Nan,Nan
+610177.00,Skinner Classical,679,113,344,151,2,69,Nan,Nan,Nan,Nan
+610178.00,Schmid,225,2,217,0,0,6,Nan,Nan,Nan,Nan
+610179.00,Smyser,987,408,16,39,4,520,Nan,Nan,Nan,Nan
+610180.00,"Smyth, J.",662,2,648,3,0,9,Nan,Nan,Nan,Nan
+610182.00,Solomon,377,184,16,130,1,46,Nan,Nan,Nan,Nan
+610183.00,Spencer,857,4,847,0,1,5,Nan,Nan,Nan,Nan
+610184.00,Spry,860,8,2,0,0,850,Nan,Nan,Nan,Nan
+610185.00,Stevenson,"1,318",103,95,5,0,"1,115",Nan,Nan,Nan,Nan
+610187.00,Stewart,367,14,193,26,0,134,Nan,Nan,Nan,Nan
+610188.00,Dunne,401,0,401,0,0,0,Nan,Nan,Nan,Nan
+610189.00,Stockton,481,26,216,49,3,187,Nan,Nan,Nan,Nan
+610191.00,Stone Magnet,631,206,131,167,3,124,Nan,Nan,Nan,Nan
+610192.00,Stowe,957,9,85,5,1,857,Nan,Nan,Nan,Nan
+610193.00,Sullivan,544,5,405,1,0,133,Nan,Nan,Nan,Nan
+610194.00,Sumner,467,0,464,1,0,2,Nan,Nan,Nan,Nan
+610195.00,Sutherland,748,332,368,7,3,38,Nan,Nan,Nan,Nan
+610196.00,Swift,679,146,248,65,10,210,Nan,Nan,Nan,Nan
+610197.00,Talcott,516,49,46,1,2,418,Nan,Nan,Nan,Nan
+610198.00,Taylor,669,10,87,0,0,572,Nan,Nan,Nan,Nan
+610199.00,"Colemon, J.",280,0,273,0,0,7,Nan,Nan,Nan,Nan
+610200.00,"Thorp, J. N.",541,1,444,0,1,95,Nan,Nan,Nan,Nan
+610201.00,"Thorp, O. A. Magnet",831,261,155,113,9,293,Nan,Nan,Nan,Nan
+610202.00,Tilton,368,0,367,0,0,1,Nan,Nan,Nan,Nan
+610203.00,Tonti,897,12,31,2,1,851,Nan,Nan,Nan,Nan
+610205.00,Trumbull,484,62,70,75,2,275,Nan,Nan,Nan,Nan
+610206.00,Twain,"1,124",308,9,8,1,798,Nan,Nan,Nan,Nan
+610207.00,Vanderpoel Magnet,330,0,330,0,0,0,Nan,Nan,Nan,Nan
+610208.00,Lavizzo,487,2,484,0,0,1,Nan,Nan,Nan,Nan
+610209.00,Volta,"1,011",108,52,262,0,589,Nan,Nan,Nan,Nan
+610210.00,Von Humboldt,529,5,211,0,0,313,Nan,Nan,Nan,Nan
+610212.00,Albany Park Middle,267,11,18,33,0,205,Nan,Nan,Nan,Nan
+610213.00,Wadsworth,288,2,283,0,0,3,Nan,Nan,Nan,Nan
+610215.00,Madero Middle,326,0,1,0,0,325,Nan,Nan,Nan,Nan
+610216.00,Walsh,489,2,29,4,2,452,Nan,Nan,Nan,Nan
+610217.00,"Ward, J.",444,20,87,286,0,51,Nan,Nan,Nan,Nan
+610218.00,Warren,340,1,339,0,0,0,Nan,Nan,Nan,Nan
+610219.00,"Washington, G.",790,86,23,3,0,678,Nan,Nan,Nan,Nan
+610220.00,Waters,472,183,27,35,1,226,Nan,Nan,Nan,Nan
+610221.00,Webster,434,0,433,1,0,0,Nan,Nan,Nan,Nan
+610223.00,Wentworth,405,0,400,0,0,5,Nan,Nan,Nan,Nan
+610224.00,West Pullman,370,1,368,0,0,1,Nan,Nan,Nan,Nan
+610225.00,Whistler,433,1,432,0,0,0,Nan,Nan,Nan,Nan
+610226.00,Sandoval,"1,181",23,12,0,0,"1,146",Nan,Nan,Nan,Nan
+610227.00,Whitney,"1,128",11,3,0,0,"1,114",Nan,Nan,Nan,Nan
+610228.00,Whittier,405,3,4,1,0,397,Nan,Nan,Nan,Nan
+610229.00,Pritzker,625,140,282,17,4,182,Nan,Nan,Nan,Nan
+610230.00,Wildwood Magnet,374,200,27,42,2,103,Nan,Nan,Nan,Nan
+610231.00,Natl Teachers Acad,424,0,423,0,0,1,Nan,Nan,Nan,Nan
+610232.00,Williams,276,3,272,0,0,1,Nan,Nan,Nan,Nan
+610233.00,Yale,248,1,247,0,0,0,Nan,Nan,Nan,Nan
+610234.00,Yates,768,14,94,2,6,652,Nan,Nan,Nan,Nan
+610235.00,Young,"1,341",7,"1,227",2,0,105,Nan,Nan,Nan,Nan
+610237.00,Beethoven,374,1,370,0,0,3,Nan,Nan,Nan,Nan
+610238.00,Bond,403,1,389,0,0,13,Nan,Nan,Nan,Nan
+610239.00,Daley,855,2,128,0,0,725,Nan,Nan,Nan,Nan
+610240.00,Henson,309,0,306,0,0,3,Nan,Nan,Nan,Nan
+610241.00,Marconi,251,0,251,0,0,0,Nan,Nan,Nan,Nan
+610242.00,Brennemann,332,12,248,16,3,53,Nan,Nan,Nan,Nan
+610243.00,Calhoun North,383,0,383,0,0,0,Nan,Nan,Nan,Nan
+610244.00,Clark Magnet HS,"1,021",2,"1,014",2,0,3,Nan,Nan,Nan,Nan
+610245.00,Douglass HS,498,1,496,0,0,1,Nan,Nan,Nan,Nan
+610246.00,Beasley Magnet,"1,434",7,"1,381",14,1,31,Nan,Nan,Nan,Nan
+610248.00,Chicago Acad,590,183,63,26,4,314,Nan,Nan,Nan,Nan
+610249.00,Talman,336,8,5,0,0,323,Nan,Nan,Nan,Nan
+610250.00,Salazar Bilingual,430,17,71,3,2,337,Nan,Nan,Nan,Nan
+610251.00,Cather,235,1,233,0,0,1,Nan,Nan,Nan,Nan
+610252.00,Dett,253,2,248,0,0,3,Nan,Nan,Nan,Nan
+610253.00,Lathrop,164,0,162,0,0,2,Nan,Nan,Nan,Nan
+610254.00,Dvorak,623,0,618,0,0,5,Nan,Nan,Nan,Nan
+610256.00,Robinson,260,0,258,2,0,0,Nan,Nan,Nan,Nan
+610257.00,Morton,278,0,272,0,0,6,Nan,Nan,Nan,Nan
+610258.00,Price,185,0,185,0,0,0,Nan,Nan,Nan,Nan
+610260.00,McCorkle,306,0,306,0,0,0,Nan,Nan,Nan,Nan
+610263.00,Dulles,444,1,443,0,0,0,Nan,Nan,Nan,Nan
+610264.00,Reed,216,0,216,0,0,0,Nan,Nan,Nan,Nan
+610265.00,Banneker,356,0,354,1,0,1,Nan,Nan,Nan,Nan
+610266.00,Dumas,387,3,381,1,0,2,Nan,Nan,Nan,Nan
+610268.00,Ashe,518,0,516,0,0,2,Nan,Nan,Nan,Nan
+610269.00,McCutcheon,366,14,215,82,3,52,Nan,Nan,Nan,Nan
+610271.00,Jensen Magnet,438,2,434,0,0,2,Nan,Nan,Nan,Nan
+610273.00,Paderewski,142,0,119,0,0,23,Nan,Nan,Nan,Nan
+610274.00,Johnson,297,0,297,0,0,0,Nan,Nan,Nan,Nan
+610276.00,Mollison,228,0,228,0,0,0,Nan,Nan,Nan,Nan
+610277.00,Overton,433,2,429,1,1,0,Nan,Nan,Nan,Nan
+610279.00,Tanner,549,2,543,0,0,4,Nan,Nan,Nan,Nan
+610280.00,Buckingham,34,1,32,0,0,1,Nan,Nan,Nan,Nan
+610281.00,Powell,560,0,556,0,0,4,Nan,Nan,Nan,Nan
+610282.00,McNair,535,3,519,1,1,11,Nan,Nan,Nan,Nan
+610283.00,Guggenheim,263,0,261,0,0,2,Nan,Nan,Nan,Nan
+610284.00,New Field,733,44,204,30,2,453,Nan,Nan,Nan,Nan
+610285.00,Woods,485,4,480,0,0,1,Nan,Nan,Nan,Nan
+610287.00,Ashburn,514,6,437,1,0,70,Nan,Nan,Nan,Nan
+610290.00,Mays,345,1,337,0,0,7,Nan,Nan,Nan,Nan
+610291.00,Lee,"1,082",42,21,0,0,"1,019",Nan,Nan,Nan,Nan
+610293.00,Melody,387,0,386,0,1,0,Nan,Nan,Nan,Nan
+610295.00,Higgins,398,2,396,0,0,0,Nan,Nan,Nan,Nan
+610296.00,Sch Of Technology HS,324,0,322,0,0,2,Nan,Nan,Nan,Nan
+610297.00,Sch Of Leadership HS,334,0,332,0,1,1,Nan,Nan,Nan,Nan
+610298.00,Lenart,328,78,214,23,1,12,Nan,Nan,Nan,Nan
+610299.00,Hinton,384,2,380,1,0,1,Nan,Nan,Nan,Nan
+610300.00,Westcott,532,0,529,0,1,2,Nan,Nan,Nan,Nan
+610304.00,Phoenix Mil Acad HS,404,10,156,6,0,232,Nan,Nan,Nan,Nan
+610305.00,Leland,216,0,216,0,0,0,Nan,Nan,Nan,Nan
+610307.00,BEST HS,350,1,333,0,0,16,Nan,Nan,Nan,Nan
+610308.00,Rudolph Lrng Ctr,111,3,50,3,1,54,Nan,Nan,Nan,Nan
+610309.00,Chicago Discovery HS,397,1,235,0,1,160,Nan,Nan,Nan,Nan
+610310.00,Sch Of The Arts HS,384,2,379,0,1,2,Nan,Nan,Nan,Nan
+610311.00,Entrepreneurshp HS,349,0,347,0,0,2,Nan,Nan,Nan,Nan
+610312.00,McDowell,190,0,190,0,0,0,Nan,Nan,Nan,Nan
+610313.00,De Diego,945,29,114,14,0,788,Nan,Nan,Nan,Nan
+610315.00,White,164,0,163,0,0,1,Nan,Nan,Nan,Nan
+610316.00,Earhart,286,1,285,0,0,0,Nan,Nan,Nan,Nan
+610317.00,Brighton Park,891,18,5,4,1,863,Nan,Nan,Nan,Nan
+610319.00,Evergreen Middle,392,18,11,6,0,357,Nan,Nan,Nan,Nan
+610320.00,Roque De Duprey,158,5,38,0,1,114,Nan,Nan,Nan,Nan
+610321.00,Marshall Middle,648,38,38,17,0,555,Nan,Nan,Nan,Nan
+610323.00,New Millenium HS,228,2,212,0,1,13,Nan,Nan,Nan,Nan
+610324.00,Global Visions HS,215,1,192,0,1,21,Nan,Nan,Nan,Nan
+610325.00,Logandale Middle,276,7,19,1,0,249,Nan,Nan,Nan,Nan
+610329.00,Orozco,620,0,6,0,0,614,Nan,Nan,Nan,Nan
+610334.00,Raby HS,561,2,549,0,1,9,Nan,Nan,Nan,Nan
+610336.00,Williams Middle,112,0,112,0,0,0,Nan,Nan,Nan,Nan
+610339.00,Stagg,561,1,558,0,0,2,Nan,Nan,Nan,Nan
+610340.00,Chicago Acad HS,497,98,123,22,2,252,Nan,Nan,Nan,Nan
+610342.00,Sabin Magnet,601,12,122,15,0,452,Nan,Nan,Nan,Nan
+610345.00,Woodson South,388,1,379,0,0,8,Nan,Nan,Nan,Nan
+610347.00,Claremont,596,2,575,1,0,18,Nan,Nan,Nan,Nan
+610348.00,Goldblatt,275,0,274,0,0,1,Nan,Nan,Nan,Nan
+610350.00,Black Magnet,486,4,475,0,2,5,Nan,Nan,Nan,Nan
+610352.00,Durkin Park,535,61,84,6,0,384,Nan,Nan,Nan,Nan
+610353.00,McKinley Park,307,3,3,0,0,301,Nan,Nan,Nan,Nan
+610354.00,North River,273,21,17,12,0,223,Nan,Nan,Nan,Nan
+610355.00,Courtenay,215,33,34,10,0,138,Nan,Nan,Nan,Nan
+610357.00,Spry Comm Links HS,159,0,0,0,0,159,Nan,Nan,Nan,Nan
+610362.00,Evers,376,0,376,0,0,0,Nan,Nan,Nan,Nan
+610363.00,Disney Magnet,"1,633",381,649,232,9,362,Nan,Nan,Nan,Nan
+610364.00,DuBois,243,8,226,0,1,8,Nan,Nan,Nan,Nan
+610365.00,Bethune,377,0,377,0,0,0,Nan,Nan,Nan,Nan
+610366.00,Wacker,248,0,248,0,0,0,Nan,Nan,Nan,Nan
+610367.00,DePriest,604,0,596,0,0,8,Nan,Nan,Nan,Nan
+610368.00,"Hughes, L.",507,4,483,4,0,16,Nan,Nan,Nan,Nan
+610369.00,"Jackson, M.",316,0,314,0,0,2,Nan,Nan,Nan,Nan
+610370.00,Best Practice HS,144,0,134,0,0,10,Nan,Nan,Nan,Nan
+610371.00,IDOC/Healy South HS,212,5,176,1,1,29,Nan,Nan,Nan,Nan
+610374.00,Robeson AA HS,213,0,209,0,0,4,Nan,Nan,Nan,Nan
+610375.00,Tilden AA HS,227,6,160,1,0,60,Nan,Nan,Nan,Nan
+610377.00,Senn AA HS,93,13,31,2,1,46,Nan,Nan,Nan,Nan
+610378.00,Crane AA HS,257,1,245,0,0,11,Nan,Nan,Nan,Nan
+610380.00,Williams Prep Med HS,324,3,311,0,0,10,Nan,Nan,Nan,Nan
+610381.00,Bronzeville Mil HS,549,2,543,0,0,4,Nan,Nan,Nan,Nan
+610383.00,Sch Of Social Justice HS,356,2,58,0,0,296,Nan,Nan,Nan,Nan
+610384.00,Infinity HS,355,1,63,1,0,290,Nan,Nan,Nan,Nan
+610385.00,Multicultural Arts HS,353,1,66,0,0,286,Nan,Nan,Nan,Nan
+610386.00,Peace & Education Alt HS,118,1,38,0,1,78,Nan,Nan,Nan,Nan
+610388.00,LINC Alt HS,798,8,643,1,0,146,Nan,Nan,Nan,Nan
+610389.00,Orr Academy HS,"1,140",2,"1,033",0,1,104,Nan,Nan,Nan,Nan
+610390.00,Rickover Naval HS,397,47,83,21,0,246,Nan,Nan,Nan,Nan
+610391.00,Lindblom MSHS,724,19,550,6,0,149,Nan,Nan,Nan,Nan
+610392.00,World Language HS,363,3,28,0,0,332,Nan,Nan,Nan,Nan
+610394.00,Uplift Community HS,546,21,441,19,1,64,Nan,Nan,Nan,Nan
+610395.00,Pershing W. Magnet,276,3,262,3,0,8,Nan,Nan,Nan,Nan
+610396.00,Tarkington,"1,106",7,307,0,0,792,Nan,Nan,Nan,Nan
+610401.00,Clemente AA HS,220,1,117,0,0,102,Nan,Nan,Nan,Nan
+610402.00,DeVry Advantage HS,218,16,94,10,0,98,Nan,Nan,Nan,Nan
+610405.00,Suder Montessori,262,40,157,14,0,51,Nan,Nan,Nan,Nan
+610499.00,Collins Acad HS,349,0,341,0,0,8,Nan,Nan,Nan,Nan
+610501.00,Austin Polytech HS,330,0,324,0,1,5,Nan,Nan,Nan,Nan
+610502.00,Marine Mil Acad HS,321,14,133,4,1,169,Nan,Nan,Nan,Nan
+610503.00,Frazier Intl Magnet,189,0,186,0,0,3,Nan,Nan,Nan,Nan
+610504.00,Velma Thomas EC Ctr,175,7,3,4,0,161,Nan,Nan,Nan,Nan
+610506.00,TEAM Englewood HS,364,0,362,1,0,1,Nan,Nan,Nan,Nan
+610513.00,Air Force Acad HS,126,7,64,3,0,52,Nan,Nan,Nan,Nan
+610515.00,Disney II Magnet,262,131,27,10,3,91,Nan,Nan,Nan,Nan
+610518.00,Voise Academy HS,273,1,265,0,0,7,Nan,Nan,Nan,Nan
+610520.00,LaSalle II Learning Acad,402,132,74,11,0,185,Nan,Nan,Nan,Nan
+610521.00,"Davis, M Magnet",503,0,502,0,0,1,Nan,Nan,Nan,Nan
+610523.00,Edison Park,342,260,1,11,2,68,Nan,Nan,Nan,Nan
+610524.00,Alcott HS,83,11,36,1,1,34,Nan,Nan,Nan,Nan
+610529.00,Ogden HS,444,127,181,27,1,108,Nan,Nan,Nan,Nan
+610530.00,South Shore Acad,156,0,156,0,0,0,Nan,Nan,Nan,Nan
+610532.00,Hernandez Middle,886,12,21,0,0,853,Nan,Nan,Nan,Nan
+610533.00,Prieto Math & Sci,799,15,37,2,1,744,Nan,Nan,Nan,Nan
+610534.00,Skinner North,105,35,32,26,1,11,Nan,Nan,Nan,Nan
+610535.00,Mason HS,22,0,22,0,0,0,Nan,Nan,Nan,Nan
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
